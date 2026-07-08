@@ -24,6 +24,10 @@ An authorization that exists only as an engineering configuration is invisible t
 
 Informed Intent is the transaction-level expression of the other two doctrines. [Slow AI](slow-ai.md) says nothing deploys faster than it can be governed; the Informed Intent instrument is the governance artifact that gates deployment. [Final Liability](final-liability.md) says a named human owns every outcome; the Informed Intent instrument records which human accepted ownership and on what terms. Together the three doctrines answer the questions every AI incident inquiry asks: who allowed this, what did they allow and could they stop it?
 
+## In the companion works
+
+The [GRC Workbook](https://github.com/rolldabones/grc-workbook) (Module 10) states Informed Intent as five conditions on the authorizing human: knowledge, evidence, authority, time and permission. The two five-part formulations answer different questions and both are required. This handbook's five elements specify the contents of the authorization instrument, the *what*. The Workbook's five conditions test whether the human's signature counts, the *who*. An instrument with all five elements signed by a human lacking the five conditions is administrative theater; a fully qualified human signing an instrument missing elements has authorized something undefined. Complete Informed Intent is a five-condition human executing a five-element instrument. The [Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen) exercises the doctrine at task level through its gates, above all Gate 4 (Bounded AI Use). See [Companion works](../appendices/companion-works.md) for the full reconciliation.
+
 ## Board-level application
 
 - Require an Informed Intent authorization for any agentic deployment and any AI system acting on external parties, and require renewal when scope, model or integration changes.

@@ -26,6 +26,10 @@ There is also a commercial argument. Reversibility preserves optionality. An org
 
 It is not a moratorium, a preference for legacy technology or an excuse for boards that would rather not decide. Deliberate non-adoption carries its own risk: falling behind on cost, product quality and talent is a real strategic exposure, and a board that starves the organization of AI capability has made a decision it must also own. Slow AI requires the board to fund governance capacity so that adoption can proceed. The doctrine has no patience for either recklessness or paralysis.
 
+## In the companion works
+
+The three tests are the board-altitude statement of the doctrine. The [GRC Workbook](https://github.com/rolldabones/grc-workbook) (Module 9) states it at enterprise altitude as calibrated release: capability deployed at the rate the organization and its affected parties can absorb without losing the capacity to govern, with release tiers, gating criteria and fallback positions an independent reviewer can inspect. The [Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen) states it at task altitude as the twelve-step method itself: manual first pass before AI touches the work, bounded AI use, verification before release. The formulations differ by audience; the constraint is the same. See [Companion works](../appendices/companion-works.md) for the full reconciliation.
+
 ## Board-level application
 
 - Set adoption pace explicitly as a function of governance capacity in the AI strategy, and resource governance so capacity is not the binding constraint for long.

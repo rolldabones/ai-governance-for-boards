@@ -26,6 +26,10 @@ Liability can be shared along the way. Vendors carry contractual liability, insu
 
 This is also why vendor reliance never dilutes the doctrine. Nearly every organization's AI is built on external providers: foundation models, cloud infrastructure, embedded SaaS features. The risks may originate with vendors; the accountability remains with the organization. Boards should oversee vendor due diligence, contractual protections, incident notification and testing rights precisely because none of those transfer final liability. They only manage it.
 
+## In the companion works
+
+The doctrine is uniform across the suite; the implementations nest. This handbook implements it as the ownership chain above. The [GRC Workbook](https://github.com/rolldabones/grc-workbook) (Module 11) implements it operationally: a named human at each decision point, an evidence pack sufficient to defend the decision in retrospect and a corrective capacity sufficient to absorb the failure mode. The [Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen) implements it at task level as Gate 5, Name the Chef de Partie: no work leaves the kitchen without a named human who answers for it. See [Companion works](../appendices/companion-works.md).
+
 ## Board-level application
 
 - Require a named system owner and named decision owners as a condition of approval for any AI system touching consequential outcomes. Record the names in the AI register.

@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.1.0 (July 2026)
+
+Suite integration release. This handbook is now explicitly positioned as the board layer of the four-repository suite alongside the GRC Workbook, the Slow AI Kitchen and the AI Governance Academy.
+
+- Added [Companion works](appendices/companion-works.md) appendix: the four-repository map, reading paths by role, the doctrine concordance reconciling the board-altitude, enterprise-altitude and task-altitude formulations of Slow AI, Informed Intent and Final Liability, a chapter-to-module concordance table and guidance on using the suite in client engagements.
+- README: added "Where this handbook sits" section, Related Work, How to Cite, a fifth design principle on the single doctrine set across the suite and the full author biography aligned with the companion repositories.
+- Doctrine files: added an "In the companion works" paragraph to each of the three doctrine files. The Informed Intent file now reconciles this handbook's five elements of the authorization instrument with the GRC Workbook's five conditions of a valid authorization.
+- License changed from CC BY-SA 4.0 to CC BY-NC-SA 4.0, aligning with the Slow AI Kitchen and the AI Governance Academy. The GRC Workbook remains CC BY-SA 4.0 in accordance with the OCEG Red Book's share-alike terms. Content published under v1.0.0 remains available under its original license.
+- No change to Parts 2 through 6, the jurisdiction guides, the glossary or the references.
+
 ## v1.0.0 (July 2026)
 
 Initial public release.
