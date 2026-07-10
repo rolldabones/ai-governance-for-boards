@@ -11,6 +11,10 @@
 | [Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen) | Individual professionals, team leads, program owners | Practice. A twelve-step, ten-gate method for governed AI use on real work, from single task to organizational program, with a workshop guide | CC BY-NC-SA 4.0 |
 | [AI Governance Academy](https://github.com/rolldabones/AI-Governance-Academy) | Advisors and organizations engaging structured delivery | Deliver. Client engagement templates for six programs built on these materials, from a two-hour Executive Briefing to a twelve-month Fractional AI Governance Advisor | CC BY-NC-SA 4.0 |
 
+## A companion at the center
+
+[The Definition of Done Is the Work of the Human](https://github.com/rolldabones/definition-of-done) (CC BY-NC-SA 4.0) is a standalone companion to the four repositories rather than a fifth layer. It deepens the moment they converge on: a named Human defining and confirming that work is done. Within the stack it is the depth work inside the Kitchen's Gates 1, 6 and 7, the task-level instrument of the knowledge condition in Workbook Module 10 and teaching material for the Academy's Practitioner Academy and Executive Workshop. The board directs, the enterprise builds, the professional practices, the programs deliver and at the center of all four a Human decides that work is done.
+
 ## How the stack fits together
 
 The board directs, the enterprise builds, the professional practices and the programs deliver. This handbook tells a board what to require: a register, named owners, a differentiated appetite, authorization gates, assurance. The GRC Workbook is the instrument management uses to construct what the board required; its thirty-seven item Governance Test in Module 18 is the audit of whether the construction is real. The Slow AI Kitchen is the discipline each professional applies so that the controls exist at the level where work actually happens, one task and one gate at a time. The Academy programs are the structured paths an organization can engage to move through all three with expert support.
@@ -60,6 +64,8 @@ The formulation is uniform across all four repositories: a named human carries t
 | Part 4 Value and Returns | Module 12 (Augmentation by Cycle Phase) | Definition of Done for the Method Itself | Guided AI GRC Build |
 | Part 5 Jurisdictions | Module 2 (External Context); Module 17 | Restaurant Resources (standards) | Fractional AI Governance Advisor |
 | Part 6 Best Practices | Module 18 (The Governance Test) | The Twelve-Step Method; the Workshop | All programs |
+
+Task-level Definitions of Done and their confirmation records, as instrumented in [The Definition of Done Is the Work of the Human](https://github.com/rolldabones/definition-of-done), are the artifacts that roll up through Workbook Module 12 into Part 4 of this handbook.
 
 Two artifacts recur across the stack and should exist exactly once in an organization. The **AI register** this handbook requires ([Controls and assurance](../03-operating-discipline/controls-and-assurance.md)) is the inventory the Workbook constructs in Module 14 and the tool registry the Kitchen opens at Step 10; build it in one place and let all three disciplines read it. The **Informed Intent instrument** is specified in [this handbook's doctrine file](../01-doctrine/informed-intent.md), gated in Workbook Module 10 and exercised through the Kitchen's gates; one instrument per authorized system, not one per framework.
 
