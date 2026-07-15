@@ -2,7 +2,7 @@
 
 **A doctrine-first handbook for directors overseeing artificial intelligence, with jurisdiction guides for the EU, the US, Korea, Vietnam and Australia.**
 
-Version 1.1.0 | July 2026 | License: CC BY-NC-SA 4.0
+Version 1.2.0 | 15 July 2026 | License: CC BY-NC-SA 4.0
 
 ---
 
@@ -83,16 +83,22 @@ Read Part 1 first. The doctrine layer is short and everything else depends on it
 4. **Jurisdiction guides are snapshots.** Law dates are stated in the text. Anything undated should be treated as unverified.
 5. **One doctrine set across the suite.** The doctrines here are stated at board altitude. The [GRC Workbook](https://github.com/rolldabones/grc-workbook) states them at enterprise altitude and the [Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen) at task altitude. The reconciliation is in [Companion works](appendices/companion-works.md).
 
-## Related work
+## Part of the ecosystem
 
-- **[GRC Workbook](https://github.com/rolldabones/grc-workbook)**: the free build instrument for the governance, risk management and compliance capability, including AI augmentation and AI GRC (CC BY-SA 4.0).
-- **[Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen)**: the free method and workshop guide for governed AI use in professional work (CC BY-NC-SA 4.0).
-- **[AI Governance Academy](https://github.com/rolldabones/AI-Governance-Academy)**: structured delivery programs built on these materials: Executive Briefing, Executive Workshop, Practitioner Academy, Implementation Accelerator, Guided AI GRC Build and Fractional AI Governance Advisor.
-- **Final Liability Rests with the Human** (book, in progress) and related essays: [github.com/rolldabones](https://github.com/rolldabones) and [substack.com/@redcaps](https://substack.com/@redcaps).
+This handbook is one component of a larger body of AI governance, risk management and compliance work. The canonical map of all repositories is [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) in the profile repository.
+
+Nearest neighbors:
+- [grc-workbook](https://github.com/rolldabones/grc-workbook): the free enterprise build instrument the board's questions hand off to, including AI augmentation and AI GRC (CC BY-SA 4.0)
+- [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen): the free task-level method and workshop guide for governed AI use in professional work
+- [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy): the structured delivery programs built on these materials: Executive Briefing, Executive Workshop, Practitioner Academy, Implementation Accelerator, Guided AI GRC Build and Fractional AI Governance Advisor
+- [final-liability-rests-with-the-human-book-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip): the book manuscript developing the three doctrines this handbook renders at board altitude
+- [the-ungoverned-channel](https://github.com/rolldabones/the-ungoverned-channel): a live field study of the multiplayer agentic risks this handbook asks boards to own, with a jurisdiction-agnostic pre-deployment question set for approving executives
+
+Related essays: [substack.com/@redcaps](https://substack.com/@redcaps).
 
 ## How to cite
 
-> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.1.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
+> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.2.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
 
 ## Disclaimer
 

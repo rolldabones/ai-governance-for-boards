@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.2.0 (15 July 2026)
+
+Ecosystem integration release under the repository improvement program.
+
+- Added a Part of the ecosystem section linking the canonical ECOSYSTEM.md in the profile repository plus five nearest neighbors (grc-workbook, slow-ai-kitchen, AI-Governance-Academy, the book manuscript, the-ungoverned-channel) and the Substack essays line, placed before How to cite.
+- Related work consolidated: the prior section is superseded by the ecosystem section; every link it carried is preserved there. The "Where this handbook sits" section and the Companion works appendix are retained; they explain the four-repository suite rather than list links.
+- Version header and How to cite updated to v1.2.0.
+- No change to any Part, doctrine file, jurisdiction guide or appendix.
+
 ## v1.1.0 (July 2026)
 
 Suite integration release. This handbook is now explicitly positioned as the board layer of the four-repository suite alongside the GRC Workbook, the Slow AI Kitchen and the AI Governance Academy.
