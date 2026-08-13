@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.3.1 (13 August 2026)
+
+Omnibus currency remediation. The Digital Omnibus on AI entered into force on 27 July 2026; notes describing Official Journal publication as pending are recast as operative law with dated amendment notes. The Article 5 application date of 2 February 2025 is stated as fact (Article 113, point (a)). No pinpoint to a numbered subsection of Article 113 is given: the amending regulation's Official Journal text has not been read and its renumbering is unconfirmed.
+
+- eu.md: status line re-dated to 13 August 2026 (KST) and the Omnibus paragraph recast from publication expected to entered into force 27 July 2026, with the deferrals stated as operative law.
+- appendices/references.md: the Digital Omnibus entry corrected on the same point.
+- Issued same day as v1.3.0. The defect was found by the account-wide Omnibus sweep run after v1.3.0 was cut, and is corrected rather than carried.
+
 ## v1.3.0 (13 August 2026)
 
 Boards currency pass. Jurisdiction guides re-verified against primary and official sources where retrievable; amendment notes and as-at dates added to every guide touched.

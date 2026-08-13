@@ -12,7 +12,7 @@ This handbook is an original work. The sources below informed it, are cited in t
 ## European Union
 
 - Regulation (EU) 2024/1689 (Artificial Intelligence Act), in force 1 August 2024, phased application.
-- Digital Omnibus on AI: Commission proposal 19 November 2025; political agreement 7 May 2026; European Parliament endorsement 16 June 2026; Council final approval 29 June 2026; Official Journal publication expected July 2026. Defers Annex III high-risk obligations to 2 December 2027 and Annex I to 2 August 2028.
+- Digital Omnibus on AI: Commission proposal 19 November 2025; political agreement 7 May 2026; European Parliament endorsement 16 June 2026; Council final approval 29 June 2026; **entered into force 27 July 2026**. Defers Annex III high-risk obligations to 2 December 2027 and Annex I to 2 August 2028.
 - European Commission, Code of Practice on marking and labelling AI-generated content (June 2026).
 - Regulation (EU) 2016/679 (GDPR), actively enforced against AI processing by data protection authorities.
 

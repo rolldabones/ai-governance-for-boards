@@ -1,6 +1,6 @@
 # Jurisdiction Guide: European Union
 
-**Status: current as at early July 2026. The EU AI Act is in force and partially applicable; the Digital Omnibus on AI amendments received final legislative approval in June 2026, with Official Journal publication expected in July 2026. Verify current status before relying on any date below.**
+**Status: current as at 13 August 2026 (KST). The EU AI Act is in force and partially applicable. The Digital Omnibus on AI amending Regulation (EU) 2024/1689 **entered into force on 27 July 2026**. Article 5 sits in Chapter II and, under Article 113, point (a), **applies from 2 February 2025**. Verify current status before relying on any date below.**
 
 ## Regulatory approach
 
@@ -10,7 +10,7 @@ The AI Act sits inside a wider EU stack that AI deployments regularly trigger si
 
 ## The timeline, as amended
 
-The Act's staggered application was materially revised by the Digital Omnibus on AI, proposed 19 November 2025, politically agreed 7 May 2026, endorsed by the European Parliament on 16 June 2026 and given final Council approval on 29 June 2026, with publication in the Official Journal expected in July 2026, ahead of the pivotal 2 August 2026 date.
+The Act's staggered application was materially revised by the Digital Omnibus on AI, proposed 19 November 2025, politically agreed 7 May 2026, endorsed by the European Parliament on 16 June 2026 and given final Council approval on 29 June 2026, and **entered into force on 27 July 2026**. The deferrals below are therefore operative law, not pending changes. ⧉ The amending regulation's own Official Journal text has not been read. Its renumbering of Article 113 is unconfirmed, so no pinpoint to a numbered subsection of Article 113 is given here. Cite the consolidated text of Regulation (EU) 2024/1689 on EUR-Lex with an as-at date.
 
 | Date | What applies |
 |---|---|
