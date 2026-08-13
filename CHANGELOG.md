@@ -1,5 +1,26 @@
 # Changelog
 
+## v1.3.0 (13 August 2026)
+
+Boards currency pass. Jurisdiction guides re-verified against primary and official sources where retrievable; amendment notes and as-at dates added to every guide touched.
+
+**Corrections (not currency updates).**
+
+- **us.md: the assertion that legal services is a covered domain under Colorado SB 26-189 is STRUCK.** Verified against the statutory enumeration at C.R.S. 6-1-1701(6), which exhaustively lists education, employment, residential real estate, financial or lending services, insurance, health-care services and essential government services and public benefits. Legal services is not among them. This was an error of substance, not of currency, and the covered-domain sentence is replaced with the statutory enumeration.
+
+**Currency updates.**
+
+- **vietnam.md: the high-risk list is no longer pending.** Decision No. 33/2026/QD-TTg issued 30 June 2026, effective 15 August 2026. New section sets out the framing principles, determination criteria under Article 9 of the AI Law and Article 8 of Decree 142/2026/ND-CP, the six listed domains and the Decision's own transition timetable (1 September 2027 for health, education and finance; 1 March 2027 for the remainder). Risk-classification paragraph, transition timetable, board priority 2 and the doctrine mapping updated accordingly. Verification particulars and the residual annex gap recorded in the guide.
+- **us.md: Colorado's ADMT regime recast from in force to enacted but enforcement-stayed**, following the stay granted 27 April 2026 in *xAI v. Weiser* (D. Colo.), which by its terms reaches legislation replacing or amending the Colorado AI Act enacted in the same session.
+- **us.md: C.R.S. 6-1-1707 added** on developer and deployer fault allocation: relative fault, no joint and several liability, and indemnification for a party's own acts void as contrary to public policy under 6-1-1707(7)(a).
+- **us.md: HB 26-1263 added**, verified against the Colorado General Assembly record. Signed 29 May 2026, Session Laws chapter 208, act effective 12 August 2026, operator requirements from 1 January 2027. Includes the prohibition on holding output out as provided by, endorsed by or equivalent to a licensed professional's services. Siblings HB 26-1139 and HB 26-1195 noted.
+
+**Flagged Unknowns.**
+
+- **korea.md: two open points added to the high-performance AI category**, both marked for counsel. Sources conflict on whether the 10^26 FLOPs threshold operates cumulatively with the criteria notified by the Minister of Science and ICT or as an alternative trigger; and the regulated actor is unresolved as between the party performing the training run, the party making the model available in Korea, or both. Primary text of the final Enforcement Decree was not obtained. The FLOPs line is not re-dated on this pass; the guide's status line now states which part was re-verified and which was not. Also records that media coverage attaching the 10^26 figure to high-impact AI is an error: Article 32 and Articles 33 to 35 are separate tracks.
+
+**Convention introduced.** Changed jurisdictional claims now carry a provision pinpoint, an as-at date and a status tag. Applied to the content touched in this release; generalised across the guides in the next.
+
 ## v1.2.0 (15 July 2026)
 
 Ecosystem integration release under the repository improvement program.

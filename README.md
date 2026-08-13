@@ -2,7 +2,7 @@
 
 **A doctrine-first handbook for directors overseeing artificial intelligence, with jurisdiction guides for the EU, the US, Korea, Vietnam and Australia.**
 
-Version 1.2.0 | 15 July 2026 | License: CC BY-NC-SA 4.0
+Version 1.3.0 | 13 August 2026 | License: CC BY-NC-SA 4.0
 
 ---
 
@@ -98,7 +98,7 @@ Related essays: [substack.com/@redcaps](https://substack.com/@redcaps).
 
 ## How to cite
 
-> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.2.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
+> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.3.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
 
 ## Disclaimer
 
