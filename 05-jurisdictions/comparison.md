@@ -20,9 +20,31 @@
 
 ## Three convergences worth building to once
 
-1. **Consequential decisions need humans and explanations.** Every regime, by statute or duty, requires meaningful human oversight and the capacity to explain AI-informed decisions with significant effects on people. One control, five regimes discharged. ([Final Liability](../01-doctrine/final-liability.md).)
+1. **Consequential decisions need humans and explanations.** Every regime, by statute or duty, requires meaningful human oversight and the capacity to explain AI-informed decisions with significant effects on people. One control, five regimes advanced. Advanced, not discharged: the control reduces the residual work under each regime, it does not extinguish any obligation. ([Final Liability](../01-doctrine/final-liability.md).)
 2. **Provenance is becoming universal.** Disclosure that users face AI, plus labeling or watermarking of synthetic content, is statutory in four of five jurisdictions on overlapping timelines through 2026. One provenance architecture serves all of them.
-3. **Classification precedes operation.** The EU, Korea and Vietnam all require knowing what tier a system occupies before or at deployment, and the US state regimes presuppose the same inventory. The AI register is the one artifact every regime examines first. ([Slow AI](../01-doctrine/slow-ai.md), [Informed Intent](../01-doctrine/informed-intent.md).)
+3. **Classification precedes operation, but the duty falls on different actors.** *[Binding law. As at 13 August 2026 (KST).]* The convergence is real and the role allocation is not, so read the register duty against the role you actually occupy:
+
+   - **EU.** Classification is the provider's, with deployers picking up obligations under Art. 26 and assuming provider obligations under Art. 25 where they put their name on a system, modify its intended purpose or substantially modify it.
+   - **Korea.** The Framework Act distinguishes AI development business operators from AI utilization business operators, placing most deploying corporates in scope through the second category. High-impact determination under Arts. 33 to 35 is the consequential one for those operators; high-performance safety duties under Art. 32 sit on frontier developers.
+   - **Vietnam.** Providers classify, and deployers must coordinate reclassification when changes in function or intended use create new risks, so integration choices alone can re-trigger the duty. Classification precedes operation as a matter of law under Decree 142/2026/ND-CP.
+   - **United States.** No state regime imposes a freestanding classification duty, but the notice, explanation and human-review obligations presuppose that the organization knows which systems make consequential decisions in an enumerated domain. The inventory is a practical precondition, not a statutory one.
+
+   The AI register is the one artifact every regime examines first. ([Slow AI](../01-doctrine/slow-ai.md), [Informed Intent](../01-doctrine/informed-intent.md).)
+
+## Currency and status convention
+
+*Adopted 13 August 2026 (KST). Applies to these jurisdiction guides going forward.*
+
+Every changed jurisdictional claim carries three things: a **provision pinpoint**, an **as-at date** and a **status tag**. The four status tags are:
+
+| Tag | Meaning |
+|---|---|
+| **Binding law** | In force and enforceable against the reader. Note separately where enforcement is stayed |
+| **Regulator guidance** | Issued by a competent authority, persuasive, not itself enforceable |
+| **Proposed** | Published draft, agreed text not yet in force, or announced intention |
+| **Author's doctrine** | This handbook's position, not law in any jurisdiction |
+
+Where a claim rests on a source that does not meet the primary-text standard, that is stated in the guide rather than smoothed over. Claims are re-dated only when they are re-verified. A guide whose status line carries a date has been checked to that date in the respects the line names, and no further.
 
 ---
 

@@ -26,7 +26,7 @@ Risk-classify every system against the strictest framework the organization face
 
 ## 6. Keep humans over consequential decisions
 
-Meaningful human oversight, with real ability to intervene, over any AI-informed decision with legal or similarly significant effect on a person, and the capacity to explain such decisions to the person affected. This single practice discharges obligations in all five jurisdiction guides simultaneously and is the practical core of Final Liability.
+Meaningful human oversight, with real ability to intervene, over any AI-informed decision with legal or similarly significant effect on a person, and the capacity to explain such decisions to the person affected. This single practice advances compliance under all five jurisdiction guides simultaneously and is the practical core of Final Liability. It advances rather than discharges: no control discharges a legal obligation, because obligations are discharged only by the person on whom they fall, on the terms the instrument sets. A control that works well reduces what remains to be done. It does not transfer the duty and it does not end it.
 
 ## 7. Be transparent about AI and its outputs
 

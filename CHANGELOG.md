@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.4.0 (13 August 2026)
+
+Boards precision pass. Four precision defects corrected and the currency and status convention adopted formally.
+
+- **The two discharge lines recast from discharge to advance.** `06-best-practices/global-best-practices.md` said a single oversight practice "discharges obligations in all five jurisdiction guides"; `05-jurisdictions/comparison.md` said "one control, five regimes discharged". Both now say advanced, with the reason stated: no control discharges a legal obligation, because obligations are discharged only by the person on whom they fall, on the terms the instrument sets. A control reduces residual work. It does not transfer the duty and it does not end it. This aligns the handbook to the drafting rule reserving liability language for where liability genuinely lands.
+- **comparison.md convergence 3 role-scoped with pinpoints.** The classification-precedes-operation convergence is real but the duty falls on different actors in each regime. Now broken out by role: EU provider classification with deployer obligations under Art. 26 and provider-assumption under Art. 25; Korea's development versus utilization operator distinction with Art. 32 separated from Arts. 33 to 35; Vietnam's provider classification with deployer reclassification duty under Decree 142/2026/ND-CP; and the US position that no state regime imposes a freestanding classification duty, the inventory being a practical precondition rather than a statutory one.
+- **australia.md status line aligned to its own body text.** The status line said Australia "has confirmed it will not enact standalone AI legislation", which reads as permanent. The body says the National AI Plan of December 2025 left targeted reforms expressly open where regulatory gaps emerge. The status line now matches the body and tells the reader to treat this as a settled choice about method rather than a permanent commitment against AI-specific legislation.
+- **eu.md third penalty tier added.** The guide gave the EUR 35 million / 7 percent and EUR 15 million / 3 percent tiers. The third tier, up to EUR 7.5 million or 1 percent for supplying incorrect, incomplete or misleading information to notified bodies or competent authorities, was missing. It is the tier that turns a botched regulatory response into its own offence.
+- **Currency and status convention adopted.** New section in comparison.md: every changed jurisdictional claim carries a provision pinpoint, an as-at date and one of four status tags (binding law, regulator guidance, proposed, author's doctrine). Records that claims are re-dated only when re-verified, and that a status line binds only in the respects it names.
+
+- Post-application tense pass: eu.md said Article 50 transparency duties "bite on 2 August 2026", a prospective framing for a date now past. Recast to "have applied since". Account-wide sweep found no other live instance; the Checklist tier note was checked and is durable as drafted.
+- License metadata sweep folded into this release: `SPDX-License-Identifier: CC-BY-NC-SA-4.0` and the canonical Creative Commons legal code added inside the existing license file, filename unchanged, human summary retained above the legal code.
+
 ## v1.3.1 (13 August 2026)
 
 Omnibus currency remediation. The Digital Omnibus on AI entered into force on 27 July 2026; notes describing Official Journal publication as pending are recast as operative law with dated amendment notes. The Article 5 application date of 2 February 2025 is stated as fact (Article 113, point (a)). No pinpoint to a numbered subsection of Article 113 is given: the amending regulation's Official Journal text has not been read and its renumbering is unconfirmed.

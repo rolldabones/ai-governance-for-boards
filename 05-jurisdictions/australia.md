@@ -1,6 +1,6 @@
 # Jurisdiction Guide: Australia
 
-**Status: current as at early July 2026. Australia has confirmed it will not enact standalone AI legislation, regulating instead through existing law plus targeted reform, guidance and an AI Safety Institute. Verify current status before relying on anything below.**
+**Status: current as at early July 2026. Australia's National AI Plan of December 2025 confirmed that it will not introduce a standalone AI act, relying instead on existing legal frameworks, **with targeted reforms expressly left open where regulatory gaps emerge**, alongside guidance and an AI Safety Institute. Read this as a settled policy choice about method, not as a permanent commitment against AI-specific legislation: the plan itself preserves the option. Verify current status before relying on anything below.**
 
 ## Regulatory approach
 
