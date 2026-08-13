@@ -1,5 +1,21 @@
 # Changelog
 
+## v1.5.0 (13 August 2026)
+
+Korea resolved from primary text. Both counsel flags removed; instrument citations corrected.
+
+**Resolved.**
+
+- **The high-performance AI test is conjunctive, and it has three limbs.** *[Enforcement Decree Art. 24(1).]* All three must be met: cumulative training compute of 10^26 floating-point operations or more; construction and operation applying the most advanced AI technology in current use; and a risk level giving rise to concern of wide-ranging and serious impact on human life, bodily safety and fundamental rights. Sources describing the ministerial element as an alternative trigger, or as a second limb sitting beside the FLOPs figure, are wrong on the text. Two consequences are now stated in the guide: a frontier-scale training run is necessary but not sufficient, and a sub-threshold system cannot be pulled in by ministerial action, because the compute figure is a hard floor in the Decree itself.
+- **The Minister's role is measurement, not scope.** *[Art. 24(2).]* What is left to public notice by the Minister of Science and ICT is the method of calculating cumulative training compute. It is not a further gating criterion.
+- **The regulated actor is the AI business operator, and that reaches deployers.** *[Act Arts. 32(1) and 2(7).]* The duty sits on the 인공지능사업자, an umbrella term covering both the development business operator, who develops and provides AI, and the utilization business operator, who provides products or services using AI provided by a development operator. The obligation is not confined to the party that performed the training run. A Korean deployer building on a third party's above-threshold model is within the addressees on the face of the statute and should not assume the duty stops with the developer. Article 32(2) requires operators to submit implementation results to the Minister.
+
+**Currency correction.** Both instruments have been amended since the versions this guide cited. The Act in force is **Act No. 21311 of 20 January 2026**, in force 21 July 2026. The Enforcement Decree in force is **Presidential Decree No. 36506 of 20 July 2026**, in force 21 July 2026. The guide previously cited Act No. 20676 and Presidential Decree No. 36053, which are the original enactments and no longer the operative versions.
+
+**Narrowed, still open.** ⚠ How cumulative training compute is attributed across fine-tuning and downstream modification is not answered in the Decree and falls to the calculation method to be notified under Article 24(2). Until that notice issues, an operator fine-tuning an above-threshold base model cannot determine from the text alone whether it inherits the classification. This is now a monitoring item rather than an unresolved question of law.
+
+**Incidental fix.** The How to cite line still read v1.4.0 and was missed by the two preceding patch bumps. Corrected here.
+
 ## v1.4.1 (13 August 2026)
 
 OJ text of the amending regulation obtained; Article 5 date corrected.
