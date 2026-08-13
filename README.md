@@ -2,7 +2,7 @@
 
 **A doctrine-first handbook for directors overseeing artificial intelligence, with jurisdiction guides for the EU, the US, Korea, Vietnam and Australia.**
 
-Version 1.4.0 | 13 August 2026 | License: CC BY-NC-SA 4.0
+Version 1.4.1 | 13 August 2026 | License: CC BY-NC-SA 4.0
 
 ---
 

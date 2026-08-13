@@ -1,6 +1,6 @@
 # Jurisdiction Guide: European Union
 
-**Status: current as at 13 August 2026 (KST). The EU AI Act is in force and partially applicable. The Digital Omnibus on AI amending Regulation (EU) 2024/1689 **entered into force on 27 July 2026**. Article 5 sits in Chapter II and, under Article 113, point (a), **applies from 2 February 2025**. Verify current status before relying on any date below.**
+**Status: current as at 13 August 2026 (KST). The EU AI Act is in force and partially applicable. The Digital Omnibus on AI amending Regulation (EU) 2024/1689 **entered into force on 27 July 2026**. Article 5 sits in Chapter II and, under **Article 113, third paragraph, point (a)**, **applies from 2 February 2025**. **Carve-out, verified 13 August 2026 (KST):** Regulation (EU) 2026/1744 replaced Article 113, third paragraph, point (a), so Chapters I and II apply from 2 February 2025 **except** Article 5(1), first subparagraph, points (ba) and (bb), and Article 5(1a) and (1b), which apply from 2 December 2026. Verify current status before relying on any date below.**
 
 ## Regulatory approach
 
@@ -10,11 +10,13 @@ The AI Act sits inside a wider EU stack that AI deployments regularly trigger si
 
 ## The timeline, as amended
 
-The Act's staggered application was materially revised by the Digital Omnibus on AI, proposed 19 November 2025, politically agreed 7 May 2026, endorsed by the European Parliament on 16 June 2026 and given final Council approval on 29 June 2026, and **entered into force on 27 July 2026**. The deferrals below are therefore operative law, not pending changes. ⧉ The amending regulation's own Official Journal text has not been read. Its renumbering of Article 113 is unconfirmed, so no pinpoint to a numbered subsection of Article 113 is given here. Cite the consolidated text of Regulation (EU) 2024/1689 on EUR-Lex with an as-at date.
+The Act's staggered application was materially revised by the Digital Omnibus on AI, proposed 19 November 2025, politically agreed 7 May 2026, endorsed by the European Parliament on 16 June 2026 and given final Council approval on 29 June 2026, and **entered into force on 27 July 2026**. The deferrals below are therefore operative law, not pending changes. **Citation.** The amending act is **Regulation (EU) 2026/1744** of the European Parliament and of the Council of 8 July 2026, OJ L, 2026/1744, 24.7.2026, ELI http://data.europa.eu/eli/reg/2026/1744/oj, in force 27 July 2026. Its Article 1, point (40) amends the **third paragraph of Article 113** of Regulation (EU) 2024/1689. **Article 113 has unnumbered paragraphs with lettered points, so the correct pinpoint form is "Article 113, third paragraph, point (c)", not "Article 113(3)".** Amended point (c) provides that Chapter III, Sections 1, 2 and 3, with the exception of Article 6(5), apply from (i) 2 December 2027 for AI systems classified as high-risk pursuant to Article 6(2) and Annex III, and (ii) 2 August 2028 for those classified pursuant to Article 6(1) and Annex I. A new point (d) provides that Articles 102 to 110 apply from 27 July 2026. Read against the consolidated text of Regulation (EU) 2024/1689 on EUR-Lex, as at 13 August 2026 (KST).
 
 | Date | What applies |
 |---|---|
 | 2 February 2025 | Prohibited practices (social scoring, exploitative manipulation and others) and AI literacy provisions. In force now. |
+| 2 December 2026 | Article 5 prohibitions added by Regulation (EU) 2026/1744, namely Article 5(1), first subparagraph, points (ba) and (bb), and Article 5(1a) and (1b) | Deferred from the general 2 February 2025 Chapter II date by the amended Article 113, third paragraph, point (a) |
+| 27 July 2026 | Articles 102 to 110 | New point (d) added to Article 113, third paragraph by Regulation (EU) 2026/1744 |
 | 2 August 2025 | General-purpose AI (GPAI) model obligations and EU governance structures. In force now. |
 | 2 August 2026 | Article 50 transparency obligations: users must be informed they are interacting with AI (chatbots), deep fakes and certain public-interest synthetic text must be disclosed. Innovation measures. Enforcement infrastructure. |
 | 2 December 2026 | Machine-readable marking (watermarking) of AI-generated content for generative systems placed on the market before 2 August 2026 (a four-month grandfathering); new Article 5 prohibitions on AI generating non-consensual intimate imagery and child sexual abuse material. |
