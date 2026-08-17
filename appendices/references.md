@@ -27,8 +27,8 @@ This handbook is an original work. The sources below informed it, are cited in t
 
 ## Republic of Korea
 
-- Framework Act on the Development of Artificial Intelligence and the Establishment of a Foundation for Trust (AI Framework Act / AI Basic Act), Act No. 20676 (promulgated 21 January 2025), effective 22 January 2026.
-- Enforcement Decree, Presidential Decree No. 36053, effective 22 January 2026.
+- Framework Act on the Development of Artificial Intelligence and the Establishment of a Foundation for Trust (AI Framework Act / AI Basic Act), **Act No. 21311 of 20 January 2026 (partial amendment), in force 21 July 2026**. Originally enacted as Act No. 20676 (promulgated 21 January 2025), effective 22 January 2026.
+- Enforcement Decree, **Presidential Decree No. 36506 of 20 July 2026 (partial amendment), in force 21 July 2026**. Originally Presidential Decree No. 36053, effective 22 January 2026.
 - Ministry of Science and ICT guidance on generative AI labeling and high-impact determination, evolving through the 2026 grace period.
 - Personal Information Protection Act (PIPA), coordinated with the Framework Act by the Enforcement Decree.
 

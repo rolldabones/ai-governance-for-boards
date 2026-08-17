@@ -1,5 +1,20 @@
 # Changelog
 
+## v1.5.1 (17 August 2026)
+
+Maintenance. Completion of the v1.5.0 Korea currency correction, plus a post-application tense pass on Vietnam. No new substantive content.
+
+**Completion of a correction already made, not a new one.** v1.5.0 corrected the Korea instrument citations to Act No. 21311 of 20 January 2026 and Presidential Decree No. 36506 of 20 July 2026, both in force 21 July 2026. That correction reached the instruments-in-force line in `korea.md` and stopped there. Three further locations continued to present the superseded Act No. 20676 and Presidential Decree No. 36053 as the operative texts and are corrected here.
+
+- **`05-jurisdictions/comparison.md`, Primary instrument row.** The Korea cell named Act No. 20676 and Presidential Decree No. 36053. Corrected to Act No. 21311 and Presidential Decree No. 36506. This is the orientation table, so it was the most exposed instance.
+- **`05-jurisdictions/comparison.md`, In force row.** Read "22 Jan 2026, all provisions simultaneously", which is correct for the original enactment and wrong for the text now in force. Now carries both: commencement 22 January 2026, current text in force 21 July 2026.
+- **`05-jurisdictions/korea.md`, Regulatory approach.** The opening paragraph asserted that Act No. 20676 and Presidential Decree No. 36053 "both took effect on 22 January 2026" with no supersession note, directly contradicting the instruments-in-force line four paragraphs above it. Recast so that the original enactments carry the commencement date and the amended texts are named as operative, with pinpoint, as-at date and status tag.
+- **`appendices/references.md`.** Both Korea entries listed the original enactments as current. Now lead with the instruments in force and record the original enactments beneath them.
+
+**Post-application tense pass, Vietnam.** *[Binding law. Pinpoint: Decision No. 33/2026/QD-TTg. As at 17 August 2026 (KST).]* Decision No. 33/2026/QD-TTg took effect on 15 August 2026. Five sites in `vietnam.md` described that commencement in the future tense, having been written on 13 August: the status line, the amendment note, the risk-classification section, the Decision section and the board actions list. All five are recast to the past. The effective date itself is unchanged and was verified against the official gazette record in v1.5.0; only the tense and the framing move. The status line records the re-check date for the commencement point alone and leaves the rest of the guide at its 13 August verification date.
+
+**Unchanged.** The residual gap on the Decision 33 annex stands: the signed PDF is not machine-readable, the transport domain is reported as 31 systems and only three are named. The Korea compute-attribution monitoring item under Enforcement Decree Art. 24(2) also stands.
+
 ## v1.5.0 (13 August 2026)
 
 Korea resolved from primary text. Both counsel flags removed; instrument citations corrected.

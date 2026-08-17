@@ -1,8 +1,8 @@
 # Jurisdiction Guide: Vietnam
 
-**Status: current as at 13 August 2026 (KST). Vietnam's AI Law is in force with transitional periods running. The high-risk list is no longer pending: it issued as Decision No. 33/2026/QD-TTg on 30 June 2026 and takes effect 15 August 2026, two days after this revision. The penalty schedule remains outstanding. Verify current status before relying on anything below.**
+**Status: current as at 13 August 2026 (KST); commencement of Decision No. 33/2026/QD-TTg re-checked as at 17 August 2026 (KST). Vietnam's AI Law is in force with transitional periods running. The high-risk list is no longer pending: it issued as Decision No. 33/2026/QD-TTg on 30 June 2026 and took effect on 15 August 2026. The penalty schedule remains outstanding. Verify current status before relying on anything below.**
 
-> **Amendment note, 13 August 2026 (KST).** This guide previously described the high-risk list as pending. That posture was accurate when written and expires on 15 August 2026. The list, its criteria and its transition timetable are restated below. Verification particulars and the one residual gap are recorded at the end of this guide.
+> **Amendment note, 13 August 2026 (KST).** This guide previously described the high-risk list as pending. That posture was accurate when written and expired on 15 August 2026. The list, its criteria and its transition timetable are restated below. Verification particulars and the one residual gap are recorded at the end of this guide.
 
 ## Regulatory approach
 
@@ -12,13 +12,13 @@ The architecture is recognizably EU-influenced, risk-based with role-driven obli
 
 ## Risk classification
 
-Article 9 classifies AI systems into three tiers, high, medium and low risk, by potential impact on human life, health, lawful rights and interests, public interests and social order. Two structural points matter for planning. First, unlike the EU's exhaustive annexes, the detailed high-risk list is delegated to the Prime Minister, so scope can move by sub-legal instrument. That delegation has now been exercised: Decision No. 33/2026/QD-TTg, set out in the next section, issues the list and takes effect 15 August 2026. Second, classification is a precondition of operation: the first implementing decree, Decree 142/2026/ND-CP (issued 30 April 2026, effective 1 May 2026), requires risk classification before a system is put into operation, by self-assessment or by a conformity assessment body, with the managing agency able to require independent assessment for high-risk systems. Providers classify systems (foundation models are treated separately), and deployers must coordinate reclassification when changes in function or intended use create new risks, which means organizations integrating third-party model APIs can trigger reclassification through integration choices alone.
+Article 9 classifies AI systems into three tiers, high, medium and low risk, by potential impact on human life, health, lawful rights and interests, public interests and social order. Two structural points matter for planning. First, unlike the EU's exhaustive annexes, the detailed high-risk list is delegated to the Prime Minister, so scope can move by sub-legal instrument. That delegation has now been exercised: Decision No. 33/2026/QD-TTg, set out in the next section, issued the list and took effect on 15 August 2026. Second, classification is a precondition of operation: the first implementing decree, Decree 142/2026/ND-CP (issued 30 April 2026, effective 1 May 2026), requires risk classification before a system is put into operation, by self-assessment or by a conformity assessment body, with the managing agency able to require independent assessment for high-risk systems. Providers classify systems (foundation models are treated separately), and deployers must coordinate reclassification when changes in function or intended use create new risks, which means organizations integrating third-party model APIs can trigger reclassification through integration choices alone.
 
 ## The high-risk list: Decision No. 33/2026/QD-TTg
 
 *[Binding law. Pinpoint: Decision No. 33/2026/QD-TTg. As at 13 August 2026 (KST).]*
 
-Decision No. 33/2026/QD-TTg was issued 30 June 2026 by the Prime Minister and signed by Deputy Prime Minister Ho Quoc Dung. It takes effect **15 August 2026**.
+Decision No. 33/2026/QD-TTg was issued 30 June 2026 by the Prime Minister and signed by Deputy Prime Minister Ho Quoc Dung. It took effect on **15 August 2026**.
 
 **Framing principles.** The Decision provides that AI systems must meet the basic operating principles of the AI Law; that the use of an AI system **does not change, transfer or exclude the authority and responsibility of the competent body, organization or individual**; that human supervision, control and the ability to intervene must be assured during operation; and that prohibited acts must not be performed.
 
@@ -58,7 +58,7 @@ The AI Law operates alongside a fast-built adjacent framework that AI deployment
 ## Board priorities in Vietnam
 
 1. **Classify before operating, and re-classify on change.** The pre-operation classification duty is the gating control, and integration or feature changes can re-trigger it. Build classification into the deployment gate rather than treating it as an annual review item.
-2. **Run the register against the issued list, and do not wait on the penalty schedule.** The high-risk list is no longer a watch item; it takes effect 15 August 2026 and every system should be tested against the six domains now. The penalty schedule remains outstanding, and waiting for it before acting is itself a compliance risk given the March and September 2027 deadlines.
+2. **Run the register against the issued list, and do not wait on the penalty schedule.** The high-risk list is no longer a watch item; it has been in force since 15 August 2026 and every system should be tested against the six domains now. The penalty schedule remains outstanding, and waiting for it before acting is itself a compliance risk given the March and September 2027 deadlines.
 3. **Generative AI provenance is statutory.** Training data source disclosure and output watermarking are binding duties, converging with Korea's labeling regime and the EU's Article 50 obligations; a single provenance architecture can serve all three.
 4. **Structure the local presence early.** Contact point, possible authorized representative and data localization questions interact; the corporate structuring decision is slower than the compliance decision and should lead it.
 5. **Integrate with PDPL compliance.** The AI Law and the personal data protection law overlap on any system touching personal data; a coordinated program avoids duplicated assessments and contradictory positions.
