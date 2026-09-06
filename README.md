@@ -2,7 +2,7 @@
 
 **A doctrine-first handbook for directors overseeing artificial intelligence, with jurisdiction guides for the EU, the US, Korea, Vietnam and Australia.**
 
-Version 1.5.1 | 17 August 2026 | License: CC BY-NC-SA 4.0
+Version 1.5.2 | 6 September 2026 | License: CC BY-NC-SA 4.0
 
 ---
 
@@ -87,6 +87,8 @@ Read Part 1 first. The doctrine layer is short and everything else depends on it
 
 This handbook is one component of a larger body of AI governance, risk management and compliance work. The canonical map of all repositories is [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) in the profile repository.
 
+The three doctrines are used in this repository as stated in [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md), the account's single normative statement. Where this repository restates a doctrine, it restates it at its own altitude and adds instruments, not doctrine (ECOSYSTEM.md protocol item 6).
+
 Nearest neighbors:
 - [grc-workbook](https://github.com/rolldabones/grc-workbook): the free enterprise build instrument the board's questions hand off to, including AI augmentation and AI GRC (CC BY-SA 4.0)
 - [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen): the free task-level method and workshop guide for governed AI use in professional work
@@ -98,7 +100,9 @@ Related essays: [substack.com/@redcaps](https://substack.com/@redcaps).
 
 ## How to cite
 
-> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.5.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
+> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.5.2. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
+
+A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
 ## Disclaimer
 
@@ -116,7 +120,7 @@ Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Built and maintained by Son-U Michael Paik. This handbook is an original work synthesizing the author's practice across US, Korean, EU and Southeast Asian AI governance, risk management and compliance frameworks, and the public sources listed in [References](appendices/references.md).
 
-Son-U Michael Paik is an attorney, AI auditor and governance architect with more than 25 years of experience designing risk and compliance systems for cross-border institutions in regulated, high-stakes sectors across Asia, Europe and the United States. He is the former General Counsel of BABL.ai, a global AI audit provider, and Founder and Chief Executive Officer of GRC Solutions Korea, where he advises finance, industrial and public-sector Clients on AI governance, audit readiness and regulatory compliance. He holds a Juris Doctor from Columbia Law School, a Master of Business Administration from the Yale School of Management and a Bachelor of Arts in Economics from Syracuse University, is admitted to the New York Bar and holds AI audit certifications from BABL.ai and ForHumanity, including certifications under the EU AI Act, GDPR and the Digital Services Act.
+Son-U Michael Paik is an attorney, AI auditor and governance architect with more than 25 years of experience designing risk and compliance systems for cross-border institutions in regulated, high-stakes sectors across Asia, Europe and the United States. He is the former General Counsel of BABL AI, a global AI audit provider, and Founder and Chief Executive Officer of GRC Solutions Korea, where he advises finance, industrial and public-sector Clients on AI governance, audit readiness and regulatory compliance. He holds a Juris Doctor from Columbia Law School, a Master of Business Administration from the Yale School of Management and a Bachelor of Arts in Economics from Syracuse University, is admitted to the New York Bar and holds AI audit certifications from BABL AI and ForHumanity, including certifications under the EU AI Act, GDPR and the Digital Services Act.
 
 **GRC Solutions Korea:** [www.grcskorea.com](http://www.grcskorea.com)
 **LinkedIn:** [linkedin.com/in/sonupaik](https://linkedin.com/in/sonupaik)
