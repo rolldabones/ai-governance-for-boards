@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.5.3 (8 September 2026)
+
+The absent byline credit line. RUNBOOK.md §8 standing item 10, remediated in this repository's own release and not in a batch.
+
+- **Byline credit line added at the head of `README.md`**, in the account's existing form: `**Son-U Michael Paik**`, then `CEO, GRC Solutions Korea | former General Counsel, BABL AI`, then the `www.grcskorea.com` link. This README carried a full author biography under `## Author and provenance` and no byline, which is the one departure from the three other READMEs in the account that carry a biography (`slow-ai-kitchen`, `computational-drafting`, `definition-of-done`). The string `former General Counsel, BABL AI` is fixed and is carried verbatim: not re-punctuated, `BABL` not expanded, no closing period.
+- **The form was copied from the three existing instances, not composed.** All three carry a three-line block — name in bold, credit line, website link — placed after the title and epigraph and above the version line. The register names only the middle line, and the middle line does not exist alone anywhere in this account; a credit line with no name above it attributes to nobody. Copying the block is what the register's "in the account's existing form" resolves to when the form is read rather than assumed.
+- **The website link now appears twice in this file**, at the head and in `## Author and provenance`, which is exactly how it appears in all three comparators. It is a consequence of matching the form and not an oversight.
+- **No other change.** The biography section is untouched, its heading is untouched, and it moves from line 119 to line 123 because three lines and a blank were inserted above it. All other files in this repository are unchanged byte for byte.
+
 ## v1.5.2 (6 September 2026)
 
 Citation infrastructure, doctrine citation line and lockstep maintenance. Session C of the September 2026 improvement pack, one patch release per repository across all 21 public repositories.
