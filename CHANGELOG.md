@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.5.4 (15 October 2026)
+
+Byline correction, on the author's instruction of 15 October 2026 (KST).
+
+- **Credit line at the head of `README.md`:** "CEO, GRC Solutions Korea | former General Counsel, BABL AI" now reads "CEO, GRC Solutions Korea". The three-line block added at v1.5.3 keeps its form and position. The v1.5.3 entry, which records the former string as fixed, stands as shipped.
+- **No other change.** `## Author and provenance`, which names the former role in prose, is untouched. Version line, How to Cite and `CITATION.cff` move to 1.5.4 in lockstep. All other files are unchanged byte for byte.
+
 ## v1.5.3 (8 September 2026)
 
 The absent byline credit line. RUNBOOK.md §8 standing item 10, remediated in this repository's own release and not in a batch.
