@@ -1,6 +1,6 @@
 # Jurisdiction Guide: Vietnam
 
-**Status: current as at 13 August 2026 (KST); commencement of Decision No. 33/2026/QD-TTg re-checked as at 17 August 2026 (KST). Vietnam's AI Law is in force with transitional periods running. The high-risk list is no longer pending: it issued as Decision No. 33/2026/QD-TTg on 30 June 2026 and took effect on 15 August 2026. The penalty schedule remains outstanding. Verify current status before relying on anything below.**
+**Status: current as at 13 August 2026 (KST); commencement of Decision No. 33/2026/QD-TTg re-checked as at 17 August 2026 (KST); the Decision's article pinpoints, per-domain counts and six-month rule added 15 October 2026 (KST) from the luatvietnam English translation, as the verification note records; the dated register is [CURRENCY.md](../CURRENCY.md). Vietnam's AI Law is in force with transitional periods running. The high-risk list is no longer pending: it issued as Decision No. 33/2026/QD-TTg on 30 June 2026 and took effect on 15 August 2026. The penalty schedule remains outstanding. Verify current status before relying on anything below.**
 
 > **Amendment note, 13 August 2026 (KST).** This guide previously described the high-risk list as pending. That posture was accurate when written and expired on 15 August 2026. The list, its criteria and its transition timetable are restated below. Verification particulars and the one residual gap are recorded at the end of this guide.
 
@@ -20,20 +20,20 @@ Article 9 classifies AI systems into three tiers, high, medium and low risk, by 
 
 Decision No. 33/2026/QD-TTg was issued 30 June 2026 by the Prime Minister and signed by Deputy Prime Minister Ho Quoc Dung. It took effect on **15 August 2026**.
 
-**Framing principles.** The Decision provides that AI systems must meet the basic operating principles of the AI Law; that the use of an AI system **does not change, transfer or exclude the authority and responsibility of the competent body, organization or individual**; that human supervision, control and the ability to intervene must be assured during operation; and that prohibited acts must not be performed.
+**Framing principles.** *[Binding law. Pinpoint: Decision No. 33/2026/QD-TTg, Article 1(2); in force 15 August 2026 under Article 3(1). Read in translation, 15 October 2026 (KST).]* The Decision provides that AI systems must meet the basic operating principles of the AI Law; that the use of an AI system **does not change, transfer or exclude the authority and responsibility of the competent body, organization or individual**; that human supervision, control and the ability to intervene must be assured during operation; and that prohibited acts must not be performed.
 
 **Determination criteria.** A system is high-risk where it may cause significant damage to life, health, the lawful rights and interests of organizations and individuals, the national interest, the public interest or national security, per Article 9 of the AI Law and Article 8(1) of Decree No. 142/2026/ND-CP, and where it is not excluded under Article 8(2) of that Decree.
 
-**The six listed domains.**
+**The six listed domains.** Forty-six systems in all, counted from the translated annex on 15 October 2026 (KST): education 3, ethnicity and religion 7, health 2, banking 2, litigation 1, transport 31. The table names examples, not the full list.
 
 | Domain | Listed systems |
 |---|---|
-| Education | Self-study content delivery drawing on uncontrolled data sources; automated testing, evaluation and ranking of learners; monitoring and analysis of learner behavior |
-| Ethnicity and religion | Automated scoring, classification and ranking of dossiers to determine policy beneficiaries and areas; automated authentication and validity determinations on ethnicity and religion information; automated approval or refusal of registration, renewal or cancellation in state management |
-| Health | Surgical support systems and surgical robots, including robotic equipment under automated AI control |
-| Banking | Automated execution of electronic transactions in banking activity; automated credit-granting decisions |
-| Litigation | Wide-scale biometric identification systems serving the resolution of public-interest civil cases |
-| Transport | 31 systems, including high-level autonomous driving control on vehicles; automated control of road and rail signaling and traffic dispatch; operation and control of critical transport works and technical infrastructure |
+| Education (3) | Self-study content delivery drawing on uncontrolled data sources; automated testing, evaluation and ranking of learners; monitoring and analysis of learner behavior |
+| Ethnicity and religion (7) | Automated scoring, classification and ranking of dossiers to determine policy beneficiaries and areas; automated authentication and validity determinations on ethnicity and religion information; automated approval or refusal of registration, renewal or cancellation in state management |
+| Health (2) | Surgical support systems and surgical robots, including robotic equipment under automated AI control |
+| Banking (2) | Automated execution of electronic transactions in banking activity; automated credit-granting decisions |
+| Litigation (1) | Wide-scale biometric identification systems serving the resolution of public-interest civil cases |
+| Transport (31) | 31 systems, including high-level autonomous driving control on vehicles; automated control of road and rail signaling and traffic dispatch; operation and control of critical transport works and technical infrastructure |
 
 **Read the litigation entry narrowly.** The listed system is wide-scale biometric identification in public-interest civil proceedings. The Decision does not enumerate legal services generally, and a board that reads "litigation" as capturing contract review, research or advisory tooling will over-scope its obligations. Compare the equivalent point under Colorado SB 26-189 in the [United States guide](us.md), where legal services is likewise not an enumerated covered domain.
 
@@ -49,7 +49,7 @@ Decision No. 33/2026/QD-TTg was issued 30 June 2026 by the Prime Minister and si
 
 Systems already in operation before 1 March 2026 may continue operating during transition if not causing serious risks, subject to a notification duty: under Decree 142/2026/ND-CP, transitioning organizations had to submit notice within 60 days of the decree's effect, by end of June 2026. Substantive compliance is then phased by sector: most businesses must comply by 1 March 2027, with healthcare, education and finance extended to 1 September 2027.
 
-Decision No. 33/2026/QD-TTg carries its own transition for listed systems **already in operation before 15 August 2026**: providers and deployers must complete their compliance obligations before **1 September 2027** for health, education and finance systems, and before **1 March 2027** for the remaining listed domains. During the transition those systems may continue to operate, unless a competent state authority determines that a system risks causing serious damage and requires suspension or termination under Article 35(2) of the AI Law. Note the asymmetry: the Decision's transition runs from the list's effective date, not the AI Law's, so a system that entered service between 1 March and 15 August 2026 sits inside both regimes. Boards should read the sector extension correctly: the highest-stakes sectors received more time because their obligations are heaviest, not lightest.
+Decision No. 33/2026/QD-TTg carries its own transition for listed systems **already in operation before 15 August 2026**: providers and deployers must complete their compliance obligations before **1 September 2027** for health, education and finance systems, and before **1 March 2027** for the remaining listed domains. During the transition those systems may continue to operate, unless a competent state authority determines that a system risks causing serious damage and requires suspension or termination under Article 35(2) of the AI Law. Note the asymmetry: the Decision's transition runs from the list's effective date, not the AI Law's, so a system that entered service between 1 March and 15 August 2026 sits inside both regimes. Boards should read the sector extension correctly: the highest-stakes sectors received more time because their obligations are heaviest, not lightest. A third rule, added 15 October 2026 (KST) from the translation: listed systems put into operation within six months after 15 August 2026 must comply before 1 March 2027 (Article 4(3)), so a system launched in that window gets no sector extension.
 
 ## The surrounding stack
 
@@ -73,7 +73,7 @@ Vietnam wrote this handbook's first doctrine pairing into its statute more expli
 
 Decision No. 33/2026/QD-TTg was verified against the official gazette record of the Government Portal (vanban.chinhphu.vn), which confirms the number, issuing body, issue date of 30 June 2026, effective date of 15 August 2026, signatory and official title, and carries the signed instrument as an attached PDF. The framing principles, determination criteria, domain list and transition timetable are taken from the Government's own e-newspaper, Bao Dien tu Chinh phu, reporting the Decision on 2 July 2026.
 
-⧉ **Residual gap.** The signed PDF of the Decision is not machine-readable, so the itemised annex was not read line by line from the instrument itself. The transport domain in particular is reported as comprising 31 systems, of which only three are named here. A board operating transport, rail or critical-infrastructure AI should obtain the full annex before scoping. Decree No. 142/2026/ND-CP is cited above for its Article 8 criteria and exclusions on the same basis.
+⧉ **Residual gap.** The signed PDF of the Decision is not machine-readable, so the itemised annex was not read line by line from the instrument itself. The transport domain in particular comprises 31 systems, of which only three are named here, and the ethnicity and religion domain seven, of which three are named. On 15 October 2026 (KST) the per-domain counts and the Article 1(2), 3(1) and 4(3) pinpoints were taken from the luatvietnam English translation of the Decision, which is a translation and not the primary text; the Vietnamese annex has still not been read line by line. A board operating transport, rail or critical-infrastructure AI should obtain the full annex before scoping. Decree No. 142/2026/ND-CP is cited above for its Article 8 criteria and exclusions on the same basis.
 
 ---
 

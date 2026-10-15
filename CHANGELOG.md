@@ -1,5 +1,29 @@
 # Changelog
 
+## v1.6.0 (15 October 2026)
+
+Legal currency release, session T1 of the whole-account review of 15 October 2026 (KST). One new file, corrections of substance in three guides, URLs in the references and dated notes everywhere a claim moved. Doctrine files, Parts 2 to 4 and Part 6 are otherwise untouched; the doctrine-conformance items the review raised for `01-doctrine/` wait for session T3.
+
+### Added
+- **`CURRENCY.md`.** One dated row per instrument the handbook relies on: where it is cited, status tag, the date to which it was last verified, the primary address and the next check. It carries the quarterly preemption watch the US guide prescribes as a row (US-1) and absorbs the five guides' bold status lines without replacing them. Reviewer report 10, aggressive idea 1.
+- **`05-jurisdictions/eu.md`, EU AI Act currency note.** The canonical post-Omnibus timeline for the whole account, read against the Official Journal text of Regulation (EU) 2026/1744 on 15 October 2026 (KST): general application unchanged at 2 August 2026; Article 5 from 2 February 2025 except points (ba) and (bb) and Article 5(1a) and (1b) from 2 December 2026; Annex III 2 December 2027; Annex I 2 August 2028; Article 50 from 2 August 2026 with the single provider carve-out to 2 December 2026 under Recital 38; Article 4 as amended ("take measures to support", no guaranteed level); Article 27 following the Annex III date. Five other repositories link here from this day instead of restating the paragraph.
+
+### Corrections of substance, struck in place
+- **`05-jurisdictions/us.md`, California.** *[Regulator guidance. As at 15 October 2026 (KST).]* "CCPA automated decision-making regulations ... phasing from April 2027" is struck. The California Privacy Protection Agency's announcement of 23 September 2025 states ADMT significant-decision duties from 1 January 2027 and risk-assessment attestations by 1 April 2028; the regulations took effect 1 January 2026. Reviewer report 10, item A8.
+- **`05-jurisdictions/comparison.md`.** The two Colorado cells read "1 Jan 2027" with no stay while `us.md` in the same repository recorded the *xAI v. Weiser* stay since 13 August 2026; both now carry it, and the enforcement-posture row names it. The Vietnam high-stakes cell read "healthcare, education, finance high-risk by default"; the list issued by Decision No. 33/2026/QD-TTg on 30 June 2026 lists two health systems and no "by default" category, so the cell now names the Decision, its six domains and 46 systems. The California cell carries the corrected ADMT dates. Items A1, A2.
+- **`06-best-practices/board-questions.md` Q32** asked about a "pending high-risk list" that `vietnam.md` had recorded as issued since 13 August 2026; recast to test against the six domains of Decision 33 and to track the penalty decree, which remains outstanding. Item A3.
+
+### Additions with pinpoints, verified 15 October 2026 (KST)
+- **`05-jurisdictions/us.md`, Colorado.** From the session law (2026 Colo. Sess. Laws ch. 131, leg.colorado.gov): the 60-day cure period (6-1-1706(3)), exclusive Attorney General enforcement and no new private right of action (6-1-1706(1)(b), (4)), three-year record retention (6-1-1702(4), 6-1-1703), the 6-1-1707(4) "except to the extent permitted under existing law" carve-out and the 6-1-1707(7)(b) developer exception, and the effective and applicability clause (section 5). The stay paragraph adds the rulemaking-to-preliminary-injunction sequence that ends it, as reported. The federal preemption sentence is re-dated to 22 July 2026, the last date re-verified, instead of "early July 2026". Items A5, A14, B3.
+- **`05-jurisdictions/vietnam.md`.** Article 1(2) and 3(1) pinpoints for the framing principles and commencement; per-domain counts (3, 7, 2, 2, 1, 31, total 46) in the domain table; the six-month rule for systems entering service after 15 August 2026 (Article 4(3), comply before 1 March 2027); the residual-gap note extended to the ethnicity and religion domain and to the fact that the pinpoints and counts come from the luatvietnam English translation, not the Vietnamese text. Items A13, B6.
+- **`05-jurisdictions/eu.md`.** The two three-cell rows that GitHub truncated in the two-column timeline table are merged into their dates and the table is in chronological order (item A6); the nested bold in the status line is italic (A7); "compliance for August 2026" reads "in force since 2 August 2026" (A15). **`05-jurisdictions/australia.md`** nested bold likewise (A7).
+- **`01-doctrine/final-liability.md`** names the chatbot case: *Moffatt v. Air Canada*, 2024 BCCRT 149 (B2). **`05-jurisdictions/korea.md`** ⚠ watch item on the Article 24(2) calculation notice records its status as Unknown as at 15 October 2026 with the re-check in `CURRENCY.md` (B7).
+- **`appendices/references.md`** carried no URL. Every entry now carries one, marked **[opened]** where the address was read on 15 October 2026 (KST) and **[address]** where it is the publisher's canonical address not opened in that pass; *Moffatt v. Air Canada* added; the *ASIC v Bekier* label "(Liability Judgment)" dropped as unmatched in the source (B1, report 10 verification log).
+- **Status lines** of `comparison.md`, `us.md`, `vietnam.md`, `eu.md` and `README.md` state which respects were verified to which date and point to `CURRENCY.md`; nothing else is re-dated (A4).
+
+### Lockstep
+- Version line, How to Cite and `CITATION.cff` to 1.6.0. `README.md` Appendices list gains the register. This changelog gains the closing line it lacked (report 10, item C3).
+
 ## v1.5.4 (15 October 2026)
 
 Byline correction, on the author's instruction of 15 October 2026 (KST).
@@ -144,3 +168,7 @@ Initial public release.
 - Appendices: glossary, references (2 files)
 
 Known limitations at release: US state law landscape is in active flux (Colorado SB 26-189 obligations commence 1 January 2027; federal preemption efforts unresolved). Vietnam high-risk list and penalty decrees pending. EU Digital Omnibus adopted but Official Journal publication pending at time of writing.
+
+---
+
+**Final Liability rests with the Human.**

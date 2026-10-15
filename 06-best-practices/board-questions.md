@@ -53,7 +53,7 @@
 
 30. Which of our systems fall within the EU AI Act's high-risk categories, and what is the build plan against the December 2027 and August 2028 deadlines, with transparency duties live from August 2026?
 31. Which systems constitute high-impact or generative AI under Korea's Framework Act, is labeling implemented and do we meet a domestic agent threshold?
-32. Have our Vietnam-facing systems been risk-classified before operation, were transition notices filed and are we tracking the pending high-risk list and penalty decrees?
+32. Have our Vietnam-facing systems been risk-classified before operation, has every one been tested against the six domains and 46 listed systems of Decision No. 33/2026/QD-TTg (in force 15 August 2026), were transition notices filed and are we tracking the penalty decree, which remains outstanding?
 33. Which US states' AI statutes reach our operations, and are we building to the strictest applicable standard rather than waiting for federal preemption?
 34. In Australia, are we ready for the December 2026 automated decision-making privacy disclosures, and is our program aligned to the six essential practices?
 
