@@ -33,7 +33,7 @@ Board ownership does not mean technical expertise. Directors do not need to buil
 
 ## The dual risk the board balances
 
-AI oversight is not only downside protection. Deliberate under-adoption is a governance failure with a slower fuse: organizations that fall behind on cost, product quality, customer experience and talent attraction discover the strategic cost years later, when it is expensive to close. The board's mandate is the whole opportunity-risk dynamic, which is exactly why it cannot be delegated to a risk function alone or a growth function alone. [Slow AI](../01-doctrine/slow-ai.md) resolves the tension: adopt at the pace governance capacity permits, and fund governance capacity so that pace is competitive.
+AI oversight is not only downside protection. Deliberate under-adoption is a governance failure with a slower fuse: organizations that fall behind on cost, product quality, customer experience and talent attraction discover the strategic cost years later, when it is expensive to close. The board's mandate is the whole opportunity-risk dynamic, which is exactly why it cannot be delegated to a risk function alone or a growth function alone. [Slow AI](../01-doctrine/slow-ai.md) resolves the tension: nothing is deployed until it can be governed, explained and audited, and the board funds governance capacity so that meeting that precondition does not become the constraint on competitive adoption.
 
 ---
 

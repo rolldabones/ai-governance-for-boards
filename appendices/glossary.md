@@ -25,7 +25,7 @@ Definitions as used in this handbook. Where a term carries a specific statutory 
 | High-impact AI | Korean Framework Act category: AI that may significantly affect human life, physical safety or fundamental rights, including employment, healthcare and financial services uses. |
 | High-risk AI | Risk-tier designation carrying the heaviest obligations in the EU (Annex I and III), Vietnam (Article 9) and analogous regimes. Definitions differ; employment, credit, healthcare, education and essential services recur across all of them. |
 | Human oversight | The involvement of people in monitoring, reviewing or intervening in AI system outputs or decisions, with genuine ability to intervene. |
-| Informed Intent | Doctrine: pre-deployment authorization specifying an AI system's purpose, scope of action, authorizing human, human checkpoints and exit. See [doctrine file](../01-doctrine/informed-intent.md). |
+| Informed Intent | Doctrine: pre-deployment authorization specifying an AI system's purpose, scope of action, authority, human checkpoints and exit, the board-altitude form of the canon's purpose, authority, boundaries and exit. See [doctrine file](../01-doctrine/informed-intent.md). |
 | Provider | The organization that develops an AI system or has it developed and places it on the market (EU terminology; Korea's development business operator and Vietnam's developer/provider roles are analogous). |
 | Shadow AI | The use of AI tools by employees without formal approval, governance or oversight by the organization. |
 | Slow AI | Doctrine: governed, explainable, auditable AI; adoption pace set by governance capacity, with reversibility as a core control. See [doctrine file](../01-doctrine/slow-ai.md). |

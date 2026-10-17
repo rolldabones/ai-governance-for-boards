@@ -1,5 +1,21 @@
 # Changelog
 
+## v1.6.1 (17 October 2026)
+
+Doctrine conformance and the mechanical train, session T3 of the whole-account review of 15 October 2026 (KST); review doc sections 1 and 8, reviewer report 10, items 9 to 12 and C3. No law, date, status tag or jurisdiction content changes.
+
+### Doctrine files and compressions, conformed to DOCTRINE.md v1.2.0
+- **`01-doctrine/final-liability.md`.** The doctrine statement carries the three attributes (decision rights, oversight, the power to intervene), as the canon's does; it had dropped them. A new section, "The three attributes and the allocation lifecycle", states the nominee test and the three moments (named at specification, attaches at confirmation, holds through reliance), which the file had not carried.
+- **`01-doctrine/informed-intent.md`.** The authorizer "holds, or names the human who holds," Final Liability, in the introduction and in element 3; the file had made authorizer and owner the same person, which DOCTRINE.md section 6 deliberately does not state. Element 3 names the five authorizer conditions. The five elements stay: DOCTRINE.md section 2 records them as the board-altitude restatement in force.
+- **Canon pointer.** Each of the three doctrine files gains one line pointing to its section of DOCTRINE.md; none had pointed there.
+- **README.** The three doctrine bullets carry the canon: Slow AI as the precondition with its three tests (it had read "speed of adoption is subordinate to the ability to explain, audit and reverse"), Final Liability with its three attributes, Informed Intent with "boundaries" (it had read "scope"). Design principle 2 names the three attributes (it had read "authority, resources and consequences"); design principle 3 is reworded so that reversibility is not read as a fourth Slow AI test.
+- **`02-board-mandate/why-boards-own-ai.md`.** The Slow AI sentence had read "adopt at the pace governance capacity permits"; it now states the precondition. **`02-board-mandate/ai-as-general-purpose-technology.md`**, **`06-best-practices/global-best-practices.md`** and **`appendices/glossary.md`**: the Informed Intent lists name the five elements by their names in the doctrine file, or the canon's four, and no longer substitute "owner", "authorizing human" or "scoped authorization".
+
+### Mechanical
+- README Contents headings Part 1 to Part 6 read "Part 1: Doctrine" and so on; GitHub drops an en dash from a heading slug. No inbound anchor in the account pointed at the old slugs.
+- US spelling in live text: "offense" (`eu.md`), "itemized" (`vietnam.md`). "labelling" in the European Commission's own title and the proper names containing "Centre" stay.
+- Version line, How to Cite and `CITATION.cff` to 1.6.1 in lockstep. `CURRENCY.md` and every jurisdiction row unchanged.
+
 ## v1.6.0 (15 October 2026)
 
 Legal currency release, session T1 of the whole-account review of 15 October 2026 (KST). One new file, corrections of substance in three guides, URLs in the references and dated notes everywhere a claim moved. Doctrine files, Parts 2 to 4 and Part 6 are otherwise untouched; the doctrine-conformance items the review raised for `01-doctrine/` wait for session T3.

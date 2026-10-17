@@ -2,6 +2,8 @@
 
 **Doctrine statement: AI that cannot be governed, explained and audited should not be deployed, however fast it would make the business.**
 
+*Canon: [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md#1-slow-ai), section 1. This file restates it at board altitude and adds no rule.*
+
 ## The problem Slow AI answers
 
 Every board now faces the same pressure: competitors are adopting AI, vendors are embedding it into software the organization already licenses, and employees are using it whether or not policy permits. The default posture this pressure produces is speed. Adopt first, govern later. The failure mode is equally predictable: systems in production that no one can explain, inventory or switch off, discovered by the board only when a regulator, journalist or plaintiff finds them first.

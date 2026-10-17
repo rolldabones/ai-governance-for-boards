@@ -18,7 +18,7 @@ A board-approved AI risk appetite differentiated by technology category, stakeho
 
 ## 4. Gate deployment with authorization
 
-No material AI system enters operation without documented approval recording purpose, scope, classification, owner and exit; no agentic system enters operation without a full [Informed Intent](../01-doctrine/informed-intent.md) instrument covering purpose, scope of action, authority, human checkpoints and a tested exit. Re-authorization triggers on change of scope, model, vendor or integration.
+No material AI system enters operation without documented approval stating its purpose, authority, boundaries and exit, with its risk classification and named owner recorded alongside; no agentic system enters operation without a full [Informed Intent](../01-doctrine/informed-intent.md) instrument covering purpose, scope of action, authority, human checkpoints and a tested exit. Re-authorization triggers on change of scope, model, vendor or integration.
 
 ## 5. Classify by risk, everywhere
 

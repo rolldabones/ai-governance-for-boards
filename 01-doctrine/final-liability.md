@@ -1,6 +1,8 @@
 # Final Liability
 
-**Doctrine statement: every material outcome produced by an AI system attaches to a named human owner. There is no such thing as an outcome the model is responsible for.**
+**Doctrine statement: every material outcome produced by an AI system attaches to a named human owner with decision rights, oversight and the power to intervene. There is no such thing as an outcome the model is responsible for.**
+
+*Canon: [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md#3-final-liability-rests-with-the-human), section 3. This file restates it at board altitude and adds no rule.*
 
 ## The problem Final Liability answers
 
@@ -15,6 +17,14 @@ Final Liability is implemented as a chain with no gaps:
 1. **System owner.** A named executive accountable for a specific AI system across its lifecycle: approval, operation, monitoring, change and decommissioning. Regulatory frameworks are converging on exactly this expectation; prudential guidance in several jurisdictions now describes accountability across the AI lifecycle from design through decommissioning as the baseline.
 2. **Decision owner.** For each consequential decision the system informs or makes, a named human who answers for the decision itself. Where the system operates autonomously, the decision owner is the human who authorized that autonomy, which is where this doctrine meets [Informed Intent](informed-intent.md).
 3. **Board accountability.** The board owns the framework: the appetite within which owners operate, the assurance that ownership is real and the consequence when it fails. Board-level oversight of AI risk is already part of directors' existing duties in every jurisdiction in this handbook; no new statute was needed to create it.
+
+## The three attributes and the allocation lifecycle
+
+A name alone is not accountability. The named owner holds decision rights over the outcome, oversight of the system that produces it and the power to intervene; a person named without all three is a nominee, and naming a nominee manufactures the appearance of accountability. Accountability then runs through three moments:
+
+1. **Named at specification.** The owner is identified before the work begins, as part of the authorization. Naming after the fact selects a scapegoat; it does not allocate accountability.
+2. **Attaches at confirmation.** Accountability binds when the named owner confirms the output against criteria defined in advance: confirm; refuse; amend and confirm, each with a record.
+3. **Holds through reliance.** It persists for as long as the organization or a third party relies on the output, usually far longer than the project that produced it.
 
 ## The test
 

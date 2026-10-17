@@ -6,7 +6,7 @@
 CEO, GRC Solutions Korea
 [www.grcskorea.com](http://www.grcskorea.com)
 
-Version 1.6.0 | 15 October 2026 | License: CC BY-NC-SA 4.0
+Version 1.6.1 | 17 October 2026 | License: CC BY-NC-SA 4.0
 
 ---
 
@@ -14,9 +14,9 @@ Version 1.6.0 | 15 October 2026 | License: CC BY-NC-SA 4.0
 
 This is a working reference for board directors, general counsel and governance professionals who must oversee AI adoption without becoming AI engineers. It is organized around three owned doctrines developed in practice:
 
-- **Slow AI**: governed, explainable, auditable AI. Speed of adoption is subordinate to the ability to explain, audit and reverse what has been adopted.
-- **Final Liability**: every material outcome of an AI system attaches to a named human owner. No output, decision or harm is orphaned to "the model."
-- **Informed Intent**: pre-deployment authorization that specifies what an AI system or agent is permitted to do, on whose authority, within what scope and with what exit.
+- **Slow AI**: AI that cannot be governed, explained and audited is not deployed; the three tests are conjunctive, and the doctrine is a precondition, not a speed limit.
+- **Final Liability**: every material outcome of an AI system attaches to a named human owner with decision rights, oversight and the power to intervene. No output, decision or harm is orphaned to "the model."
+- **Informed Intent**: pre-deployment authorization that specifies what an AI system or agent is permitted to do, on whose authority, within what boundaries and with what exit.
 
 The handbook translates these doctrines into board-level obligations, an operating discipline, a value measurement framework and five jurisdiction guides. It is designed for a global audience. The regulatory content is dated throughout: early July 2026 as the baseline, with later dates where an entry was re-verified to them, and the dated register of every instrument, with its next check, is [CURRENCY.md](CURRENCY.md). Verify current status before relying on any specific provision.
 
@@ -41,26 +41,26 @@ Read Part 1 first. The doctrine layer is short and everything else depends on it
 
 ## Contents
 
-### Part 1 – Doctrine
+### Part 1: Doctrine
 - [Slow AI](01-doctrine/slow-ai.md)
 - [Final Liability](01-doctrine/final-liability.md)
 - [Informed Intent](01-doctrine/informed-intent.md)
 
-### Part 2 – The Board Mandate
+### Part 2: The Board Mandate
 - [Why boards own AI](02-board-mandate/why-boards-own-ai.md)
 - [AI as a general-purpose technology](02-board-mandate/ai-as-general-purpose-technology.md)
 - [A working risk taxonomy](02-board-mandate/risk-taxonomy.md)
 
-### Part 3 – Operating Discipline
+### Part 3: Operating Discipline
 - [Strategy and risk appetite](03-operating-discipline/strategy-and-risk-appetite.md)
 - [Accountability structure](03-operating-discipline/accountability-structure.md)
 - [Controls and assurance](03-operating-discipline/controls-and-assurance.md)
 - [Culture and enablers](03-operating-discipline/culture-and-enablers.md)
 
-### Part 4 – Value and Returns
+### Part 4: Value and Returns
 - [Measuring AI value](04-value-and-returns/measuring-ai-value.md)
 
-### Part 5 – Jurisdictions
+### Part 5: Jurisdictions
 - [Cross-jurisdiction comparison](05-jurisdictions/comparison.md)
 - [European Union](05-jurisdictions/eu.md)
 - [United States](05-jurisdictions/us.md)
@@ -68,7 +68,7 @@ Read Part 1 first. The doctrine layer is short and everything else depends on it
 - [Vietnam](05-jurisdictions/vietnam.md)
 - [Australia](05-jurisdictions/australia.md)
 
-### Part 6 – Best Practices (globally applicable)
+### Part 6: Best Practices (globally applicable)
 - [Global best practices](06-best-practices/global-best-practices.md)
 - [Board questions bank](06-best-practices/board-questions.md)
 - [Governance red flags](06-best-practices/red-flags.md)
@@ -83,8 +83,8 @@ Read Part 1 first. The doctrine layer is short and everything else depends on it
 ## Design principles
 
 1. **Doctrine before checklist.** Checklists decay; doctrines transfer. Each jurisdiction guide maps local law back to the three doctrines so the reader carries one mental model across borders.
-2. **Named humans, not diffuse committees.** Wherever this handbook says "accountability," it means a named human owner with authority, resources and consequences.
-3. **Reversibility as a control.** An AI deployment the organization cannot switch off, exit or explain is a governance failure regardless of its performance.
+2. **Named humans, not diffuse committees.** Wherever this handbook says "accountability," it means a named human owner with decision rights, oversight and the power to intervene. Accountability without resources and consequence is decoration.
+3. **Reversibility as a control.** An AI deployment the organization can neither switch off nor exit is a governance failure regardless of its performance; so is one it cannot explain.
 4. **Jurisdiction guides are snapshots.** Law dates are stated in the text. Anything undated should be treated as unverified.
 5. **One doctrine set across the suite.** The doctrines here are stated at board altitude. The [GRC Workbook](https://github.com/rolldabones/grc-workbook) states them at enterprise altitude and the [Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen) at task altitude. The reconciliation is in [Companion works](appendices/companion-works.md).
 
@@ -105,7 +105,7 @@ Related essays: [substack.com/@redcaps](https://substack.com/@redcaps).
 
 ## How to cite
 
-> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.6.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
+> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.6.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
