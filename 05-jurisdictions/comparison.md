@@ -20,7 +20,7 @@
 
 ## Three convergences worth building to once
 
-1. **Consequential decisions need humans and explanations.** Every regime, by statute or duty, requires meaningful human oversight and the capacity to explain AI-informed decisions with significant effects on people. One control, five regimes advanced. Advanced, not discharged: the control reduces the residual work under each regime, it does not extinguish any obligation. ([Final Liability](../01-doctrine/final-liability.md).)
+1. **Consequential decisions need humans and explanations.** Every regime, by statute or duty, requires meaningful human oversight and the capacity to explain AI-informed decisions with significant effects on people. One control, five regimes advanced. Advanced, not discharged: the control reduces the residual work under each regime, it does not extinguish any obligation. ([Final Liability](../handbook.md#final-liability).)
 2. **Provenance is becoming universal.** Disclosure that users face AI, plus labeling or watermarking of synthetic content, is statutory in four of five jurisdictions on overlapping timelines through 2026. One provenance architecture serves all of them.
 3. **Classification precedes operation, but the duty falls on different actors.** *[Binding law. As at 13 August 2026 (KST).]* The convergence is real and the role allocation is not, so read the register duty against the role you actually occupy:
 
@@ -29,7 +29,7 @@
    - **Vietnam.** Providers classify, and deployers must coordinate reclassification when changes in function or intended use create new risks, so integration choices alone can re-trigger the duty. Classification precedes operation as a matter of law under Decree 142/2026/ND-CP.
    - **United States.** No state regime imposes a freestanding classification duty, but the notice, explanation and human-review obligations presuppose that the organization knows which systems make consequential decisions in an enumerated domain. The inventory is a practical precondition, not a statutory one.
 
-   The AI register is the one artifact every regime examines first. ([Slow AI](../01-doctrine/slow-ai.md), [Informed Intent](../01-doctrine/informed-intent.md).)
+   The AI register is the one artifact every regime examines first. ([Slow AI](../handbook.md#slow-ai), [Informed Intent](../handbook.md#informed-intent).)
 
 ## Currency and status convention
 

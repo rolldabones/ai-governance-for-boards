@@ -6,7 +6,7 @@
 CEO, GRC Solutions Korea
 [www.grcskorea.com](http://www.grcskorea.com)
 
-Version 1.6.1 | 17 October 2026 | License: CC BY-NC-SA 4.0
+Version 1.7.0 | 18 October 2026 | License: CC BY-NC-SA 4.0
 
 ---
 
@@ -22,14 +22,7 @@ The handbook translates these doctrines into board-level obligations, an operati
 
 ## Where this handbook sits
 
-This handbook is the board layer of a four-repository suite. The board directs, the enterprise builds, the professional practices and the programs deliver:
-
-- **AI Governance for Boards** (this handbook): what the board must own, ask and refuse.
-- **[GRC Workbook](https://github.com/rolldabones/grc-workbook)**: the eighteen-module instrument, built on the OCEG GRC Capability Model 3.5, with which management constructs the capability this handbook presupposes, closing on a thirty-seven item Governance Test.
-- **[Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen)**: the twelve-step, ten-gate method by which individual professionals and teams apply the doctrines to real work, with a workshop guide.
-- **[AI Governance Academy](https://github.com/rolldabones/AI-Governance-Academy)**: engagement templates for six structured delivery programs built on these materials.
-
-Each repository stands alone. [Companion works](appendices/companion-works.md) maps how they fit together, reconciles the doctrine formulations across them and provides reading paths by role.
+This handbook is the board layer of a four-repository suite in which the board directs, the enterprise builds with the [GRC Workbook](https://github.com/rolldabones/grc-workbook), the professional practices with the [Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen) and the programs of the [AI Governance Academy](https://github.com/rolldabones/AI-Governance-Academy) deliver. [Companion works](appendices/companion-works.md) maps how the four fit together, reconciles the doctrine formulations across them and provides reading paths by role.
 
 ## Who this is for
 
@@ -37,28 +30,16 @@ Directors and officers of companies of any size, in any jurisdiction, who carry 
 
 ## How to use it
 
-Read Part 1 first. The doctrine layer is short and everything else depends on it. Part 2 establishes why the board, not management alone, owns AI oversight. Part 3 is the operating discipline: appetite, accountability, controls, culture. Part 4 addresses whether AI investments are returning value. Part 5 is jurisdiction-specific. Part 6 distills globally applicable best practices, board questions, red flags and a checklist for smaller organizations. When the board's questions turn into management's build, hand the work to the [GRC Workbook](https://github.com/rolldabones/grc-workbook); when the build turns into daily practice, train with the [Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen).
+Read Part 1 first; Parts 1 to 4 are one file, [handbook.md](handbook.md). The doctrine layer is short and everything else depends on it. Part 2 establishes why the board, not management alone, owns AI oversight. Part 3 is the operating discipline: appetite, accountability, controls, culture. Part 4 addresses whether AI investments are returning value. Part 5 is jurisdiction-specific. Part 6 distills globally applicable best practices, board questions, red flags and a checklist for smaller organizations. When the board's questions turn into management's build, hand the work to the [GRC Workbook](https://github.com/rolldabones/grc-workbook); when the build turns into daily practice, train with the [Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen).
 
 ## Contents
 
-### Part 1: Doctrine
-- [Slow AI](01-doctrine/slow-ai.md)
-- [Final Liability](01-doctrine/final-liability.md)
-- [Informed Intent](01-doctrine/informed-intent.md)
-
-### Part 2: The Board Mandate
-- [Why boards own AI](02-board-mandate/why-boards-own-ai.md)
-- [AI as a general-purpose technology](02-board-mandate/ai-as-general-purpose-technology.md)
-- [A working risk taxonomy](02-board-mandate/risk-taxonomy.md)
-
-### Part 3: Operating Discipline
-- [Strategy and risk appetite](03-operating-discipline/strategy-and-risk-appetite.md)
-- [Accountability structure](03-operating-discipline/accountability-structure.md)
-- [Controls and assurance](03-operating-discipline/controls-and-assurance.md)
-- [Culture and enablers](03-operating-discipline/culture-and-enablers.md)
-
-### Part 4: Value and Returns
-- [Measuring AI value](04-value-and-returns/measuring-ai-value.md)
+### Parts 1 to 4: the handbook
+[handbook.md](handbook.md) carries Parts 1 to 4 in one file.
+- Part 1: Doctrine: [Slow AI](handbook.md#slow-ai), [Final Liability](handbook.md#final-liability), [Informed Intent](handbook.md#informed-intent)
+- Part 2: The Board Mandate: [Why boards own AI](handbook.md#why-boards-own-ai), [AI as a general-purpose technology](handbook.md#ai-as-a-general-purpose-technology), [A working risk taxonomy](handbook.md#a-working-risk-taxonomy)
+- Part 3: Operating Discipline: [Strategy and risk appetite](handbook.md#strategy-and-risk-appetite), [Accountability structure](handbook.md#accountability-structure), [Controls and assurance](handbook.md#controls-and-assurance), [Culture and enablers](handbook.md#culture-and-enablers)
+- Part 4: Value and Returns: [Measuring AI value](handbook.md#measuring-ai-value)
 
 ### Part 5: Jurisdictions
 - [Cross-jurisdiction comparison](05-jurisdictions/comparison.md)
@@ -97,7 +78,7 @@ The three doctrines are used in this repository as stated in [DOCTRINE.md](https
 Nearest neighbors:
 - [grc-workbook](https://github.com/rolldabones/grc-workbook): the free enterprise build instrument the board's questions hand off to, including AI augmentation and AI GRC (CC BY-SA 4.0)
 - [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen): the free task-level method and workshop guide for governed AI use in professional work
-- [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy): the structured delivery programs built on these materials: Executive Briefing, Executive Workshop, Practitioner Academy, Implementation Accelerator, Guided AI GRC Build and Fractional AI Governance Advisor
+- [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy): the structured delivery programs built on these materials: Executive Briefing, Executive Workshop, Practitioner Academy, Implementation Accelerator, One Workflow, Thirty Days, Guided AI GRC Build and Fractional AI Governance Advisor
 - [final-liability-rests-with-the-human-book-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip): the book manuscript developing the three doctrines this handbook renders at board altitude
 - [the-ungoverned-channel](https://github.com/rolldabones/the-ungoverned-channel): a live field study of the multiplayer agentic risks this handbook asks boards to own, with a jurisdiction-agnostic pre-deployment question set for approving executives
 
@@ -105,7 +86,7 @@ Related essays: [substack.com/@redcaps](https://substack.com/@redcaps).
 
 ## How to cite
 
-> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.6.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
+> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.7.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

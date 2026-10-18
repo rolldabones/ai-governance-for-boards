@@ -54,7 +54,7 @@ This handbook is an original work. The sources below informed it, are cited in t
 
 - Gradient Institute, Risk Analysis Techniques for Governed LLM-based Multi-Agent Systems (2025), on agentic and multi-agent risk.
 - Published corporate transparency reports on AI adoption and governance, an emerging genre worth benchmarking against; Commonwealth Bank of Australia's Our Approach to Adopting AI (December 2025) is a prominent example.
-- *Moffatt v. Air Canada*, 2024 BCCRT 149 (British Columbia Civil Resolution Tribunal, 14 February 2024), the chatbot misstatement case cited in [Final Liability](../01-doctrine/final-liability.md). **[address]** [https://www.canlii.org](https://www.canlii.org) (2024 BCCRT 149)
+- *Moffatt v. Air Canada*, 2024 BCCRT 149 (British Columbia Civil Resolution Tribunal, 14 February 2024), the chatbot misstatement case cited in [Final Liability](../handbook.md#final-liability). **[address]** [https://www.canlii.org](https://www.canlii.org) (2024 BCCRT 149)
 - Author's related work: the Slow AI, Final Liability and Informed Intent doctrines are developed further at substack.com/@redcaps and github.com/rolldabones, including the book in progress, Final Liability Rests with the Human.
 
 ---

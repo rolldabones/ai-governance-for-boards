@@ -2,7 +2,7 @@
 
 **Twelve practices that hold in every jurisdiction this handbook covers, and in the jurisdictions it does not. Where local law adds prescription, these are the substrate it adds it to.**
 
-The regulatory regimes of the EU, the US, Korea, Vietnam and Australia differ in instrument, philosophy and enforcement posture, and they converge on the same operational demands. The practices below are the convergence set. An organization that operates all twelve carries the operational substrate that every covered regime builds on, leaving jurisdiction-specific compliance as configuration rather than construction, and is positioned to absorb new regulation at low marginal cost. That is the [Slow AI](../01-doctrine/slow-ai.md) argument for building governance once, well. The practices are not a substitute for jurisdiction-specific legal analysis; they are what makes that analysis implementable.
+The regulatory regimes of the EU, the US, Korea, Vietnam and Australia differ in instrument, philosophy and enforcement posture, and they converge on the same operational demands. The practices below are the convergence set. An organization that operates all twelve carries the operational substrate that every covered regime builds on, leaving jurisdiction-specific compliance as configuration rather than construction, and is positioned to absorb new regulation at low marginal cost. That is the [Slow AI](../handbook.md#slow-ai) argument for building governance once, well. The practices are not a substitute for jurisdiction-specific legal analysis; they are what makes that analysis implementable.
 
 ## 1. Maintain a living AI register
 
@@ -10,7 +10,7 @@ A consolidated record of every AI system in use, including embedded vendor funct
 
 ## 2. Name the humans
 
-A named senior executive accountable for AI governance, named system owners across each system's lifecycle from design to decommissioning and named decision owners for consequential outcomes, all recorded in the register and reflected in position descriptions, delegations and incentives. This is [Final Liability](../01-doctrine/final-liability.md), and it is also the first question every regulator asks after an incident.
+A named senior executive accountable for AI governance, named system owners across each system's lifecycle from design to decommissioning and named decision owners for consequential outcomes, all recorded in the register and reflected in position descriptions, delegations and incentives. This is [Final Liability](../handbook.md#final-liability), and it is also the first question every regulator asks after an incident.
 
 ## 3. Set a differentiated risk appetite
 
@@ -18,7 +18,7 @@ A board-approved AI risk appetite differentiated by technology category, stakeho
 
 ## 4. Gate deployment with authorization
 
-No material AI system enters operation without documented approval stating its purpose, authority, boundaries and exit, with its risk classification and named owner recorded alongside; no agentic system enters operation without a full [Informed Intent](../01-doctrine/informed-intent.md) instrument covering purpose, scope of action, authority, human checkpoints and a tested exit. Re-authorization triggers on change of scope, model, vendor or integration.
+No material AI system enters operation without documented approval stating its purpose, authority, boundaries and exit, with its risk classification and named owner recorded alongside; no agentic system enters operation without a full [Informed Intent](../handbook.md#informed-intent) instrument covering purpose, scope of action, authority, human checkpoints and a tested exit. Re-authorization triggers on change of scope, model, vendor or integration.
 
 ## 5. Classify by risk, everywhere
 
@@ -50,7 +50,7 @@ Independent verification of control effectiveness, scaled to stakes: full extern
 
 ## 12. Measure value with the same rigor as risk
 
-Use-case-level ROI with metrics set before investment, phase-appropriate evaluation, full cost modeling including consumption pricing and a demonstrated willingness to retire what underperforms. See [Measuring AI value](../04-value-and-returns/measuring-ai-value.md). Value discipline is a governance practice because ungoverned spend and ungoverned risk are the same culture.
+Use-case-level ROI with metrics set before investment, phase-appropriate evaluation, full cost modeling including consumption pricing and a demonstrated willingness to retire what underperforms. See [Measuring AI value](../handbook.md#measuring-ai-value). Value discipline is a governance practice because ungoverned spend and ungoverned risk are the same culture.
 
 ## Using this list
 

@@ -1,5 +1,37 @@
 # Changelog
 
+## v1.7.0 (18 October 2026)
+
+Front door and navigation, session T7 of the whole-account review of 15 October 2026 (KST); review doc section 9 (change 5) and reviewer report 10, items C1 and C2. Structure and wayfinding only: no law, date, status tag or jurisdiction content changes, and every sentence of Parts 1 to 4 is carried byte for byte.
+
+### Added
+- **`handbook.md`.** Parts 1 to 4 in one file: masthead, one paragraph stating what the file carries and what stays as files, a contents list of the eleven sections with same-file anchors, then the eleven former files concatenated programmatically in order under `## Part 1: Doctrine`, `## Part 2: The Board Mandate`, `## Part 3: Operating Discipline` and `## Part 4: Value and Returns`, each former H1 as a `###` and every heading inside demoted two levels. The three "In the companion works" sections of the doctrine files are dropped for one pointer sentence to `appendices/companion-works.md` at the end of the file (item C1); the closing line appears once, last. The eleven files carried no byline or version line, so none was dropped. The 26 links among the eleven files are same-file anchors.
+
+### Removed, moved into `handbook.md`
+- `01-doctrine/slow-ai.md`, `01-doctrine/final-liability.md`, `01-doctrine/informed-intent.md`
+- `02-board-mandate/why-boards-own-ai.md`, `02-board-mandate/ai-as-general-purpose-technology.md`, `02-board-mandate/risk-taxonomy.md`
+- `03-operating-discipline/strategy-and-risk-appetite.md`, `03-operating-discipline/accountability-structure.md`, `03-operating-discipline/controls-and-assurance.md`, `03-operating-discipline/culture-and-enablers.md`
+- `04-value-and-returns/measuring-ai-value.md`
+- The four folders leave the repository with them (item C2).
+
+### Links rewired to `handbook.md#<slug>`
+- 43 in all: `README.md` 11; `CURRENCY.md` 1 (row CA-1, link text `final-liability.md` now reads `handbook.md`); `05-jurisdictions/australia.md` 2, `comparison.md` 3, `eu.md` 4, `korea.md` 3, `us.md` 4, `vietnam.md` 3; `06-best-practices/global-best-practices.md` 4, `red-flags.md` 2; `appendices/companion-works.md` 2, `glossary.md` 3 (link text "doctrine file" now reads "doctrine section"), `references.md` 1. Every anchor verified against the headings of `handbook.md`; no link to the four folders remains outside this changelog.
+
+### `06-best-practices/board-questions.md`
+- **The bank is cut from 34 to 16 questions.** Each of the 34 was compared with `difflib.SequenceMatcher` against the 22 "Board questions for this element" sentences of Parts 3 and 4; a ratio of 0.6 or above counts as a restatement. Cut, in the v1.6.1 numbering: Q1 to Q3, Q5, Q7, Q9, Q10, Q12 to Q15, Q18 to Q21, Q23 to Q25 (18 questions, the report's count). Q4, the baseline inventory question, measured exactly 0.60 against its nearest element question and is kept as a distinct question, paired with red flag 14. Kept and renumbered 1 to 16: Q6, Q4, Q8, Q11, Q16, Q17, Q22, Q26 to Q29 and the five jurisdiction triggers Q30 to Q34. Each kept question carries a "Detects" line naming the red flag it detects in `red-flags.md` (flags 3, 14, 17, 8, 18, 5, 15, 20, 19 and 6) or "no paired flag" (former Q28 and the five jurisdiction triggers). A head note states that the element questions live in `handbook.md` Parts 3 and 4.
+
+### `README.md` and `appendices/companion-works.md`
+- **README.** Contents lists `handbook.md` with its eleven anchors, then Parts 5 and 6, the appendices and `CURRENCY.md`. "Where this handbook sits" is one sentence and the pointer to Companion works; the four-bullet restatement of `companion-works.md` is gone (item C1).
+- **Companion works.** The three reading paths that named Parts of this handbook link into `handbook.md`; the two artifact links at the foot of the Concordance point at the handbook sections. "The Informed Intent instrument is specified in this handbook's doctrine file" reads "described in this handbook's doctrine section" (report 10, item B4: the file describes the instrument and does not supply a template; none is added).
+
+### Findings by class
+- Confirmed and edited: C1, C2, the bank cut and pairing (doc section 9 change 5), B4 in its trivial form.
+- Already fixed: none reopened. Items A1 to A15 and B1 to B7 (v1.6.0, v1.6.1) are not undone by the move: the *Moffatt* links in `CURRENCY.md` and `references.md` resolve to `handbook.md#final-liability`, and the doctrine text is carried unchanged.
+- Not reproducible: none. Outside the review: nothing edited. Unknown: none.
+
+### Lockstep
+- Version line, How to Cite and `CITATION.cff` to 1.7.0. `CURRENCY.md` rows unchanged except the CA-1 link. The empty folders `01-doctrine/` to `04-value-and-returns/` are not tracked by git and disappear with the removal.
+
 ## v1.6.1 (17 October 2026)
 
 Doctrine conformance and the mechanical train, session T3 of the whole-account review of 15 October 2026 (KST); review doc sections 1 and 8, reviewer report 10, items 9 to 12 and C3. No law, date, status tag or jurisdiction content changes.

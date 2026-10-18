@@ -28,7 +28,7 @@ The obligations most commonly engaged by organizational AI use in Australia:
 
 ## Government guidance
 
-Australia's AI Ethics Principles (voluntary, OECD-aligned) are given operational form by the National AI Centre's Guidance for AI Adoption (October 2025), which consolidated the earlier ten voluntary guardrails into six essential practices: decide who is accountable; understand impacts and plan accordingly; measure and manage risks; share essential information; test and monitor; maintain human control. Two versions exist, a foundations edition and an implementation edition for governance professionals. Readers will note the six practices are a compressed statement of this handbook's operating discipline, and the first and sixth are [Final Liability](../01-doctrine/final-liability.md) and [Informed Intent](../01-doctrine/informed-intent.md) respectively in official Australian voice.
+Australia's AI Ethics Principles (voluntary, OECD-aligned) are given operational form by the National AI Centre's Guidance for AI Adoption (October 2025), which consolidated the earlier ten voluntary guardrails into six essential practices: decide who is accountable; understand impacts and plan accordingly; measure and manage risks; share essential information; test and monitor; maintain human control. Two versions exist, a foundations edition and an implementation edition for governance professionals. Readers will note the six practices are a compressed statement of this handbook's operating discipline, and the first and sixth are [Final Liability](../handbook.md#final-liability) and [Informed Intent](../handbook.md#informed-intent) respectively in official Australian voice.
 
 ## Board priorities in Australia
 

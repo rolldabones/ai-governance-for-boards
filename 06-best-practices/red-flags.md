@@ -7,7 +7,7 @@
 1. **Tool accumulation without alignment review.** The organization is adopting a large number of AI tools without reviewing alignment with strategy or potential return on investment. Breach: Slow AI (adoption outpacing governance). First step: freeze new approvals until the register and strategy filter operate.
 2. **AI initiatives disconnected from core strategy.** Projects exist because the market moved, not because the strategy called for them. First step: require every live initiative to state the strategic objective it serves or enter wind-down.
 3. **No AI-specific risk appetite.** The board has not considered an AI risk appetite consistent with the organization's overall appetite, risk register and risk management framework. Breach: the frame within which Final Liability owners operate does not exist. First step: a board session producing a differentiated appetite statement.
-4. **Resourcing blindness.** No complete understanding of current resources and internal expertise, or whether they will support planned AI investments. First step: the baseline exercise described in [Strategy and risk appetite](../03-operating-discipline/strategy-and-risk-appetite.md).
+4. **Resourcing blindness.** No complete understanding of current resources and internal expertise, or whether they will support planned AI investments. First step: the baseline exercise described in [Strategy and risk appetite](../handbook.md#strategy-and-risk-appetite).
 
 ## Structure flags
 
@@ -18,7 +18,7 @@
 
 ## Practice flags
 
-9. **ERM silence on AI.** The organization's risk management framework does not address AI risks at all. First step: integrate the eight-area [risk taxonomy](../02-board-mandate/risk-taxonomy.md) into the existing framework, not a parallel one.
+9. **ERM silence on AI.** The organization's risk management framework does not address AI risks at all. First step: integrate the eight-area [risk taxonomy](../handbook.md#a-working-risk-taxonomy) into the existing framework, not a parallel one.
 10. **No assessment process.** There is no process to assess and evaluate the risks of any AI-enabled application or system. First step: risk-tiered assessment attached to the approval gate.
 11. **Agents without controls.** Agentic AI systems have been adopted without rigorous risk identification and controls: no documented task appetite, no access limits, no action logs, no tested kill switch. Breach: Informed Intent, in production. First step: suspend or checkpoint the agents until authorizations exist.
 12. **Stale control estate.** Data governance and privacy controls and policies have not been reviewed for fitness against AI systems. First step: a dated review cycle with AI-specific triggers.

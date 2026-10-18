@@ -9,7 +9,7 @@
 | [AI Governance for Boards](https://github.com/rolldabones/ai-governance-for-boards) (this handbook) | Directors, officers, general counsel, company secretaries | Direct. What the board must own, ask and refuse, with jurisdiction guides for the EU, the US, Korea, Vietnam and Australia | CC BY-NC-SA 4.0 |
 | [GRC Workbook](https://github.com/rolldabones/grc-workbook) | GC, compliance officers, risk leaders, auditors and their sponsors | Build. An eighteen-module working instrument, on the OCEG GRC Capability Model 3.5, that constructs the integrated capability this handbook presupposes and applies it to AI | CC BY-SA 4.0 |
 | [Slow AI Kitchen](https://github.com/rolldabones/slow-ai-kitchen) | Individual professionals, team leads, program owners | Practice. A twelve-step, ten-gate method for governed AI use on real work, from single task to organizational program, with a workshop guide | CC BY-NC-SA 4.0 |
-| [AI Governance Academy](https://github.com/rolldabones/AI-Governance-Academy) | Advisors and organizations engaging structured delivery | Deliver. Client engagement templates for six programs built on these materials, from a two-hour Executive Briefing to a twelve-month Fractional AI Governance Advisor | CC BY-NC-SA 4.0 |
+| [AI Governance Academy](https://github.com/rolldabones/AI-Governance-Academy) | Advisors and organizations engaging structured delivery | Deliver. Client engagement templates for seven programs built on these materials, from a two-hour Executive Briefing through One Workflow, Thirty Days to a twelve-month Fractional AI Governance Advisor | CC BY-NC-SA 4.0 |
 
 ## A companion at the center
 
@@ -23,11 +23,11 @@ The dependency runs downward and the evidence runs upward. A board resolution wi
 
 ## Reading paths
 
-- **A director with two hours.** Part 1 of this handbook, then the [board questions bank](../06-best-practices/board-questions.md) and [red flags](../06-best-practices/red-flags.md). Nothing else is required to start asking better questions at the next meeting.
-- **A general counsel or CRO preparing the board.** This handbook end to end, then the GRC Workbook Part III (Modules 14 through 18) to scope the build, then the relevant [jurisdiction guides](../05-jurisdictions/comparison.md).
-- **A practitioner assigned to build the program.** GRC Workbook from Module 1, in order. Return to this handbook for the board-facing layer: appetite language, reporting design and the jurisdiction guides.
-- **An individual professional using AI today.** Slow AI Kitchen, Core Principles and Steps 1 through 9, then the Slow AI Cookbook. This handbook's [SME and NFP checklist](../06-best-practices/sme-nfp-checklist.md) is the governance wrapper when that professional also runs the organization.
-- **An organization engaging outside help.** The AI Governance Academy programs sequence the other three repositories into deliverable engagements: Executive Briefing and Executive Workshop for the board layer, Practitioner Academy and Implementation Accelerator for the build layer, Guided AI GRC Build and Fractional AI Governance Advisor for sustained operation.
+- **A director with two hours.** [Part 1](../handbook.md#part-1-doctrine) of this handbook, then the [board questions bank](../06-best-practices/board-questions.md) and [red flags](../06-best-practices/red-flags.md). Nothing else is required to start asking better questions at the next meeting.
+- **A general counsel or CRO preparing the board.** This handbook end to end ([handbook.md](../handbook.md), then Parts 5 and 6), then the GRC Workbook Part III (Modules 14 through 18) to scope the build, then the relevant [jurisdiction guides](../05-jurisdictions/comparison.md).
+- **A practitioner assigned to build the program.** GRC Workbook from Module 1, in order. Return to this handbook for the board-facing layer: [appetite language](../handbook.md#strategy-and-risk-appetite), [reporting design](../handbook.md#accountability-structure) and the jurisdiction guides.
+- **An individual professional using AI today.** Slow AI Kitchen, Five Operating Rules and Steps 1 through 9, then the Slow AI Cookbook. This handbook's [SME and NFP checklist](../06-best-practices/sme-nfp-checklist.md) is the governance wrapper when that professional also runs the organization.
+- **An organization engaging outside help.** The AI Governance Academy programs sequence the other three repositories into deliverable engagements: Executive Briefing and Executive Workshop for the board layer, Practitioner Academy and Implementation Accelerator for the build layer, One Workflow, Thirty Days (the Slow AI Kitchen's Consultant Workbook engagement) for the first governed workflow, Guided AI GRC Build and Fractional AI Governance Advisor for sustained operation.
 
 ## One doctrine set, three altitudes
 
@@ -58,7 +58,7 @@ The formulation is uniform across all four repositories: a named human carries t
 
 | This handbook | GRC Workbook | Slow AI Kitchen | Academy program |
 |---|---|---|---|
-| Part 1 Doctrine | The Three Doctrines; Modules 9, 10, 11 | Core Principles | Executive Briefing |
+| Part 1 Doctrine | The Three Doctrines; Modules 9, 10, 11 | Five Operating Rules | Executive Briefing |
 | Part 2 The Board Mandate | Modules 1 through 3 (Equation, LEARN, ALIGN) | What Slow AI Kitchen Is; Risk Tiers | Executive Briefing; Executive Workshop |
 | Part 3 Operating Discipline | Modules 3 through 7 (ALIGN, PERFORM, REVIEW); Modules 14 through 17 | The Feast (Steps 10 through 12); Your Restaurant | Practitioner Academy; Implementation Accelerator |
 | Part 4 Value and Returns | Module 12 (Augmentation by Cycle Phase) | Definition of Done for the Method Itself | Guided AI GRC Build |
@@ -67,7 +67,7 @@ The formulation is uniform across all four repositories: a named human carries t
 
 Task-level Definitions of Done and their confirmation records, as instrumented in [The Definition of Done Is the Work of the Human](https://github.com/rolldabones/definition-of-done), are the artifacts that roll up through Workbook Module 12 into Part 4 of this handbook.
 
-Two artifacts recur across the stack and should exist exactly once in an organization. The **AI register** this handbook requires ([Controls and assurance](../03-operating-discipline/controls-and-assurance.md)) is the inventory the Workbook constructs in Module 14 and the tool registry the Kitchen opens at Step 10; build it in one place and let all three disciplines read it. The **Informed Intent instrument** is specified in [this handbook's doctrine file](../01-doctrine/informed-intent.md), gated in Workbook Module 10 and exercised through the Kitchen's gates; one instrument per authorized system, not one per framework.
+Two artifacts recur across the stack and should exist exactly once in an organization. The **AI register** this handbook requires ([Controls and assurance](../handbook.md#controls-and-assurance)) is the inventory the Workbook constructs in Module 14 and the tool registry the Kitchen opens at Step 10; build it in one place and let all three disciplines read it. The **Informed Intent instrument** is described in [this handbook's doctrine section](../handbook.md#informed-intent), gated in Workbook Module 10 and exercised through the Kitchen's gates; one instrument per authorized system, not one per framework.
 
 ## Using the suite with clients and advisors
 

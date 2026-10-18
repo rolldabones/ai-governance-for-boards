@@ -52,7 +52,7 @@ The Act establishes a National AI Committee chaired by the President as the poli
 
 ## Doctrine mapping
 
-Korea's statute is notably congruent with this handbook's doctrines. The five-year documentation retention and explanation duties are [Slow AI](../01-doctrine/slow-ai.md)'s auditable and explainable tests in statutory form. The domestic agent requirement and operator accountability structure are [Final Liability](../01-doctrine/final-liability.md): a named, reachable, answerable party. The advance notification duties, human oversight requirements and high-impact determinations before deployment are [Informed Intent](../01-doctrine/informed-intent.md): authorization and disclosure precede operation.
+Korea's statute is notably congruent with this handbook's doctrines. The five-year documentation retention and explanation duties are [Slow AI](../handbook.md#slow-ai)'s auditable and explainable tests in statutory form. The domestic agent requirement and operator accountability structure are [Final Liability](../handbook.md#final-liability): a named, reachable, answerable party. The advance notification duties, human oversight requirements and high-impact determinations before deployment are [Informed Intent](../handbook.md#informed-intent): authorization and disclosure precede operation.
 
 ---
 
