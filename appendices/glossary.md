@@ -31,7 +31,7 @@ Definitions as used in this handbook. Where a term carries a specific statutory 
 | Slow AI | Doctrine: governed, explainable, auditable AI; adoption pace set by governance capacity, with reversibility as a core control. See [doctrine section](../handbook.md#slow-ai). |
 | Token | The unit in which language models consume and produce text (words, sub-words, characters or punctuation). AI usage is typically priced per token, with output tokens usually costlier than input; consumption cost therefore scales with adoption and agentic complexity. |
 | Traditional (analytical) AI | AI systems trained to perform defined, specialized tasks: pattern identification, prediction, optimization. Often called narrow AI. |
-| Watermarking (content provenance) | Embedding human-perceptible or machine-readable indicators that content is AI-generated; statutory in Korea and Vietnam, required in the EU from late 2026 and in California under phased transparency rules. |
+| Watermarking (content provenance) | Embedding human-perceptible or machine-readable indicators that content is AI-generated; statutory in Korea and Vietnam, required in the EU from 2 August 2026 (providers of systems placed on the market before that date have until 2 December 2026, Art. 111(4)) and in California under phased transparency rules. |
 
 ---
 

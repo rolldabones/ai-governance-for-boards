@@ -34,7 +34,7 @@ This file carries Parts 1 to 4 of the handbook in one place: the three doctrines
 
 **Doctrine statement: AI that cannot be governed, explained and audited should not be deployed, however fast it would make the business.**
 
-*Canon: [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md#1-slow-ai), section 1. This file restates it at board altitude and adds no rule.*
+*Canon: [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md#1-slow-ai), section 1. This section restates it at board altitude and adds no rule.*
 
 #### The problem Slow AI answers
 
@@ -52,7 +52,7 @@ An AI system passes the Slow AI standard when the organization can answer yes to
 
 #### Why boards should care
 
-The three tests are not aspiration. They are converging into law. The EU AI Act requires logging, technical documentation, human oversight and post-market monitoring for high-risk systems. Korea's AI Framework Act requires providers to retain risk management and explanation documentation for five years. Vietnam's AI Law requires risk classification before a system is put into operation and mandates human oversight of important decisions. Australian regulators have told directors their duty of care extends to the adoption, deployment and use of AI. In the US, transparency and documentation duties are accumulating state by state. An organization built to the Slow AI standard is, by construction, most of the way to compliance in every jurisdiction covered in this handbook. An organization built for speed alone must retrofit governance under enforcement pressure, which is the most expensive way to build it.
+The three tests are not aspiration. They are converging into law. The EU AI Act requires logging, technical documentation, human oversight and post-market monitoring for high-risk systems. Korea's AI Framework Act requires AI business operators (인공지능사업자) to retain the documents for high-impact AI measures for five years (Enforcement Decree Art. 27(2)). Vietnam's AI Law requires risk classification before a system is put into operation and mandates human oversight of important decisions. Australian regulators have told directors their duty of care extends to the adoption, deployment and use of AI. In the US, transparency and documentation duties are accumulating state by state. An organization built to the Slow AI standard is, by construction, most of the way to compliance in every jurisdiction covered in this handbook. An organization built for speed alone must retrofit governance under enforcement pressure, which is the most expensive way to build it.
 
 There is also a commercial argument. Reversibility preserves optionality. An organization that can exit a vendor, roll back a model or suspend an agent negotiates from strength, adapts when the technology shifts and avoids the concentration risk of dependence on a single provider it cannot leave. Fast adopters who cannot reverse are not ahead; they are committed.
 
@@ -71,7 +71,7 @@ It is not a moratorium, a preference for legacy technology or an excuse for boar
 
 **Doctrine statement: every material outcome produced by an AI system attaches to a named human owner with decision rights, oversight and the power to intervene. There is no such thing as an outcome the model is responsible for.**
 
-*Canon: [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md#3-final-liability-rests-with-the-human), section 3. This file restates it at board altitude and adds no rule.*
+*Canon: [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md#3-final-liability-rests-with-the-human), section 3. This section restates it at board altitude and adds no rule.*
 
 #### The problem Final Liability answers
 
@@ -116,7 +116,7 @@ This is also why vendor reliance never dilutes the doctrine. Nearly every organi
 
 **Doctrine statement: no AI system, and above all no AI agent, acts on the organization's behalf without prior authorization that specifies what it may do, on whose authority, within what boundaries and with what exit.**
 
-*Canon: [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md#2-informed-intent), section 2, which records this file's five elements as an altitude restatement in force: scope of action and human checkpoints are drawn out of boundaries. This file adds no rule.*
+*Canon: [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md#2-informed-intent), section 2, which records this section's five elements as an altitude restatement in force: scope of action and human checkpoints are drawn out of boundaries. This section adds no rule.*
 
 #### The problem Informed Intent answers
 

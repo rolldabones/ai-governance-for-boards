@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you cite this work, please use the metadata below."
-title: "AI Governance for Boards"
+title: "AI Governance for Boards: A Doctrine-First Handbook for Directors"
 authors:
   - family-names: "Paik"
     given-names: "Son-U Michael"
@@ -8,4 +8,4 @@ version: 1.7.1
 date-released: "2026-10-20"
 license: CC-BY-NC-SA-4.0
 repository-code: "https://github.com/rolldabones/ai-governance-for-boards"
-abstract: "Board mandate, best practices and jurisdiction guides (EU, US, Korea, Vietnam, Australia); where the assessment tools send their \"verify with counsel\" flags."
+abstract: "A doctrine-first handbook for company directors on AI governance. It sets out three doctrines, the board mandate, operating discipline, measurement of AI value and globally applicable best practices, with dated jurisdiction guides for the European Union, the United States, the Republic of Korea, Vietnam and Australia."

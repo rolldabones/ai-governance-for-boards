@@ -53,7 +53,7 @@ Read Part 1 first; Parts 1 to 4 are one file, [handbook.md](handbook.md). The do
 - [Global best practices](06-best-practices/global-best-practices.md)
 - [Board questions bank](06-best-practices/board-questions.md)
 - [Governance red flags](06-best-practices/red-flags.md)
-- [SME and NFP director checklist](06-best-practices/sme-nfp-checklist.md)
+- [Small and medium-sized enterprise (SME) and not-for-profit (NFP) director checklist](06-best-practices/sme-nfp-checklist.md)
 
 ### Appendices
 - [Companion works](appendices/companion-works.md)
@@ -78,7 +78,7 @@ The three doctrines are used in this repository as stated in [DOCTRINE.md](https
 Nearest neighbors:
 - [grc-workbook](https://github.com/rolldabones/grc-workbook): the free enterprise build instrument the board's questions hand off to, including AI augmentation and AI GRC (CC BY-SA 4.0)
 - [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen): the free task-level method and workshop guide for governed AI use in professional work
-- [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy): the structured delivery programs built on these materials: Executive Briefing, Executive Workshop, Practitioner Academy, Implementation Accelerator, One Workflow, Thirty Days, Guided AI GRC Build and Fractional AI Governance Advisor
+- [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy): the structured delivery programs built on these materials: Executive Briefing, Executive Workshop, Practitioner Academy, Implementation Accelerator, "One Workflow, Thirty Days", Guided AI GRC Build and Fractional AI Governance Advisor
 - [final-liability-rests-with-the-human-book-wip](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip): the book manuscript developing the three doctrines this handbook renders at board altitude
 - [the-ungoverned-channel](https://github.com/rolldabones/the-ungoverned-channel): a live field study of the multiplayer agentic risks this handbook asks boards to own, with a jurisdiction-agnostic pre-deployment question set for approving executives
 
