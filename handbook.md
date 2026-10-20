@@ -4,7 +4,9 @@
 CEO, GRC Solutions Korea
 [www.grcskorea.com](http://www.grcskorea.com)
 
-Version 1.7.0 | 18 October 2026 | License: CC BY-NC-SA 4.0
+Version 1.7.2 | 20 October 2026 | License: CC BY-NC-SA 4.0
+
+*This masthead gives the repository version in which this file last changed; the current repository version is in the [README](README.md).*
 
 ---
 
@@ -157,7 +159,7 @@ Informed Intent is the transaction-level expression of the other two doctrines. 
 
 No major jurisdiction has created a separate regime of "AI directors' duties," and none needed to. The duty of care and diligence, the duty of good faith and the duty of oversight already extend to any technology material to the organization's operations, risk profile or strategy. Regulators have been explicit about the application to AI:
 
-- **Australia** put it most directly. The securities regulator has stated that directors' duties of care and diligence extend to the adoption, deployment and use of AI, including awareness of AI use within the company, the extent of reliance on AI-generated information and the reasonably foreseeable risks. A 2026 Federal Court judgment on directors' use of AI in analyzing board papers warned against a quiet normalization of private reliance on machine-generated summaries unregulated by any agreed policy.
+- **Australia** put it most directly. The securities regulator has stated that directors' duties of care and diligence extend to the adoption, deployment and use of AI, including awareness of AI use within the company, the extent of reliance on AI-generated information and the reasonably foreseeable risks. A 2026 Federal Court judgment on directors' use of AI in analyzing board papers cautioned, as commentary reports it, that directors should not become reliant on computer-generated output.
 - **Korea** enacted a comprehensive AI Framework Act, effective 22 January 2026, whose obligations fall on the business operator, which in governance terms means the board and executives who direct it.
 - **The EU** allocates AI Act obligations to providers and deployers as undertakings; sanctions scale to global group turnover, which places the exposure squarely at the level the board governs.
 - **Vietnam's** AI Law, effective 1 March 2026, assigns duties to developers, providers and deployers and anchors the whole framework in human responsibility for important decisions.

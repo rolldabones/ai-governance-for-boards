@@ -1,5 +1,31 @@
 # Changelog
 
+## v1.7.2 (20 October 2026)
+
+Independent review of 20 October 2026; changes made with Claude, approved by Michael Paik. Corrections of law against primary text, provenance and consistency fixes, doctrine compressions conformed to DOCTRINE.md section 8 and house-style repairs. Findings applied: BRD-01, BRD-02, BRD-03, BRD-04, BRD-05, BRD-06, BRD-07, BRD-08, BRD-09, BRD-10, BRD-11, BRD-12, BRD-13, BRD-14, BRD-15, BRD-16, BRD-17, BRD-18, BRD-19, BRD-20, BRD-21, BRD-23, BRD-24, BRD-25, X-01. BRD-22 (em dashes in a shipped entry) is accepted as shipped.
+
+### Corrections of law (primary text read 20 October 2026 (KST) unless an item says otherwise)
+- **`05-jurisdictions/vietnam.md`, `comparison.md`.** "Calculated as a percentage of global revenue" is struck: Law 134/2025/QH15 sets no penalty amounts; liability is administrative, criminal or civil by severity (Art. 29(1)) and administrative sanctions are left to Government decree (Art. 29(5)) (BRD-01).
+- **`05-jurisdictions/korea.md`, `comparison.md`, `CURRENCY.md`, `references.md`.** Act No. 21311 is in force from 22 January 2026, with only the provisions its Addenda list from 21 July 2026; the current Enforcement Decree text is Presidential Decree No. 36580 of 18 August 2026, in force 20 August 2026, a one-cross-reference consequential amendment (BRD-11). The domestic-agent test states the Act Art. 36(1) scope and the four limbs of Decree Art. 29(1) (BRD-12). The EU comparator for the 10^26 figure is the presumption of systemic risk for general-purpose AI models, Art. 51(2) (BRD-14). `handbook.md`: the five-year retention duty falls on AI business operators, Decree Art. 27(2) (BRD-15).
+- **`05-jurisdictions/eu.md`, `glossary.md`.** The Art. 50(2) transition is pinpointed to Art. 111(4), inserted by Regulation (EU) 2026/1744 Art. 1(39)(b), and covers general-purpose AI systems (BRD-10); the glossary gives 2 August 2026 with the 2 December 2026 transition (BRD-08). The (ba)/(bb) Unknown is closed at 2 December 2026 (BRD-05). The penalty passage adds Art. 99(4)(da) and Art. 99(6a); the small mid-cap passage says the Art. 63(1) simplified quality management system reaches SMEs only (BRD-25). The sandbox deferral sits in its own 2 August 2027 row (BRD-21).
+- **`05-jurisdictions/us.md`, `CURRENCY.md`, `references.md`.** SB 24-205 is described as never enforced, delayed to 30 June 2026 by SB 25B-004 and repealed and reenacted by SB 26-189 with effect from 1 January 2027 (BRD-13). The *xAI v. Weiser* stay is cited as *X.AI LLC v. Weiser*, No. 1:26-cv-01515 (D. Colo. Apr. 27, 2026) (minute order, ECF No. 24) in `us.md`, `comparison.md`, `CURRENCY.md` row US-3 and `references.md`; its date and scope are verified from the docket text as published by PacerMonitor, read 20 October 2026 (the signed order was not read), the operative paragraph is quoted where the scope is described and the record that no preliminary injunction motion had been filed as of 6 October 2026 is added; the "as reported" and pending-docket qualifiers on the stay are removed. DOJ reliance on EO 14365 stays as reported. The two Colorado tags use the register's "Enacted, not in effect" (BRD-04). HB 26-1263: act effective 12 August 2026, operator duties from 1 January 2027 (BRD-07). The December 2025 executive order is cited as EO 14365, 90 FR 58499 (BRD-16).
+- **`05-jurisdictions/australia.md`, `CURRENCY.md`.** The NSW digital work systems duty commences on proclamation; its commencement is not confirmed (secondary sources only; the primary text was not reached) and is a register item (BRD-03). *ASIC v Bekier (Liability Judgment)* [2026] FCA 196: the unverified "agreed policy" paraphrase is removed from `australia.md` and `handbook.md`, and the label is restored in `references.md` and `CURRENCY.md` (BRD-02).
+
+### Provenance and consistency
+- `eu.md` currency note: the Official Journal text was first obtained at v1.4.1, not on 30 July 2026 (BRD-06).
+- `companion-works.md`: seven Academy programs, not six; `README.md` punctuates "One Workflow, Thirty Days" as one program (BRD-09).
+- `handbook.md`: "This file" in the three canon lines reads "This section" (BRD-20); the masthead states that it gives the version in which the file last changed (BRD-19).
+- `CITATION.cff`: title carries the subtitle; abstract rewritten for an external citer (BRD-24).
+- README and glossary doctrine compressions copy the DOCTRINE.md section 8 sentence forms verbatim (X-01).
+- Acronyms spelled out on first use: SME, NFP, DPA, GC, CRO (BRD-23).
+
+### Errata to shipped entries
+- v1.6.0 said every entry in `appendices/references.md` carried a URL; nine did not. They now carry the publisher's canonical address (BRD-17).
+- v1.6.0 recorded the *ASIC v Bekier* label "(Liability Judgment)" as unmatched and dropped; the label is the case's cited name and is restored (BRD-02).
+
+### Lockstep
+- Version line, How to Cite and `CITATION.cff` to 1.7.2. `handbook.md` and `CURRENCY.md` mastheads to 1.7.2, the version in which each last changed (BRD-18, BRD-19).
+
 ## v1.7.1 (20 October 2026)
 
 - LICENSE: two defects against the Creative Commons legal code corrected (the space in 'ShareAlike. In'; the CC0 sentence of the closing notice). Operative terms unchanged.

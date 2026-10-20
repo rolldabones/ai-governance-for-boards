@@ -6,7 +6,7 @@
 CEO, GRC Solutions Korea
 [www.grcskorea.com](http://www.grcskorea.com)
 
-Version 1.7.1 | 20 October 2026 | License: CC BY-NC-SA 4.0
+Version 1.7.2 | 20 October 2026 | License: CC BY-NC-SA 4.0
 
 ---
 
@@ -15,8 +15,8 @@ Version 1.7.1 | 20 October 2026 | License: CC BY-NC-SA 4.0
 This is a working reference for board directors, general counsel and governance professionals who must oversee AI adoption without becoming AI engineers. It is organized around three owned doctrines developed in practice:
 
 - **Slow AI**: AI that cannot be governed, explained and audited is not deployed; the three tests are conjunctive, and the doctrine is a precondition, not a speed limit.
-- **Final Liability**: every material outcome of an AI system attaches to a named human owner with decision rights, oversight and the power to intervene. No output, decision or harm is orphaned to "the model."
-- **Informed Intent**: pre-deployment authorization that specifies what an AI system or agent is permitted to do, on whose authority, within what boundaries and with what exit.
+- **Final Liability rests with the Human**: every material outcome attaches to a named human owner with decision rights, oversight and the power to intervene.
+- **Informed Intent**: no AI system acts without prior authorization stating its purpose, authority, boundaries and exit, given by a human who meets the five authorizer conditions.
 
 The handbook translates these doctrines into board-level obligations, an operating discipline, a value measurement framework and five jurisdiction guides. It is designed for a global audience. The regulatory content is dated throughout: early July 2026 as the baseline, with later dates where an entry was re-verified to them, and the dated register of every instrument, with its next check, is [CURRENCY.md](CURRENCY.md). Verify current status before relying on any specific provision.
 
@@ -86,7 +86,7 @@ Related essays: [substack.com/@redcaps](https://substack.com/@redcaps).
 
 ## How to cite
 
-> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.7.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
+> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.7.2. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

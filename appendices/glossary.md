@@ -17,7 +17,7 @@ Definitions as used in this handbook. Where a term carries a specific statutory 
 | Data governance | The framework for managing data across its lifecycle, including quality, security, accessibility and legal compliance. The substrate of all AI governance. |
 | Deployer | An organization using an AI system under its own authority (EU AI Act terminology; analogous roles exist in most regimes). Most non-technology corporates are primarily deployers. |
 | Explainability | The extent to which the behavior or outputs of an AI system can be understood and explained to affected persons, stakeholders and regulators. |
-| Final Liability | Doctrine: every material outcome of an AI system attaches to a named human owner; residual accountability never transfers to the model or the vendor. See [doctrine section](../handbook.md#final-liability). |
+| Final Liability | Doctrine. Final Liability rests with the Human: every material outcome attaches to a named human owner with decision rights, oversight and the power to intervene. See [doctrine section](../handbook.md#final-liability). |
 | Foundation model | A large model trained on broad data, adaptable to many downstream tasks; the layer most organizational AI is built on via vendor APIs. |
 | Generative AI | AI systems that create new content, such as text, images, audio, video or code, based on patterns learned from large datasets. |
 | GPAI (general-purpose AI) | EU AI Act term for AI models displaying significant generality, subject to a dedicated obligations chapter applicable since 2 August 2025. |
@@ -28,7 +28,7 @@ Definitions as used in this handbook. Where a term carries a specific statutory 
 | Informed Intent | Doctrine: pre-deployment authorization specifying an AI system's purpose, scope of action, authority, human checkpoints and exit, the board-altitude form of the canon's purpose, authority, boundaries and exit. See [doctrine section](../handbook.md#informed-intent). |
 | Provider | The organization that develops an AI system or has it developed and places it on the market (EU terminology; Korea's development business operator and Vietnam's developer/provider roles are analogous). |
 | Shadow AI | The use of AI tools by employees without formal approval, governance or oversight by the organization. |
-| Slow AI | Doctrine: governed, explainable, auditable AI; adoption pace set by governance capacity, with reversibility as a core control. See [doctrine section](../handbook.md#slow-ai). |
+| Slow AI | Doctrine. Slow AI: AI that cannot be governed, explained and audited is not deployed; the three tests are conjunctive, and the doctrine is a precondition, not a speed limit. See [doctrine section](../handbook.md#slow-ai). |
 | Token | The unit in which language models consume and produce text (words, sub-words, characters or punctuation). AI usage is typically priced per token, with output tokens usually costlier than input; consumption cost therefore scales with adoption and agentic complexity. |
 | Traditional (analytical) AI | AI systems trained to perform defined, specialized tasks: pattern identification, prediction, optimization. Often called narrow AI. |
 | Watermarking (content provenance) | Embedding human-perceptible or machine-readable indicators that content is AI-generated; statutory in Korea and Vietnam, required in the EU from 2 August 2026 (providers of systems placed on the market before that date have until 2 December 2026, Art. 111(4)) and in California under phased transparency rules. |
