@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.7.1 (20 October 2026)
+
+- LICENSE: two defects against the Creative Commons legal code corrected (the space in 'ShareAlike. In'; the CC0 sentence of the closing notice). Operative terms unchanged.
+
+### Lockstep
+- Version line, How to Cite and `CITATION.cff` to 1.7.1. `handbook.md` is unchanged and keeps its 1.7.0 masthead.
+
 ## v1.7.0 (18 October 2026)
 
 Front door and navigation, session T7 of the whole-account review of 15 October 2026 (KST); review doc section 9 (change 5) and reviewer report 10, items C1 and C2. Structure and wayfinding only: no law, date, status tag or jurisdiction content changes, and every sentence of Parts 1 to 4 is carried byte for byte.
