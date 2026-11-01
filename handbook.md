@@ -4,7 +4,7 @@
 CEO, GRC Solutions Korea
 [www.grcskorea.com](http://www.grcskorea.com)
 
-Version 1.7.2 | 20 October 2026 | License: CC BY-NC-SA 4.0
+Version 1.8.0 | 2 November 2026 | License: CC BY-NC-SA 4.0
 
 *This masthead gives the repository version in which this file last changed; the current repository version is in the [README](README.md).*
 
@@ -49,8 +49,8 @@ Slow AI inverts the default. It does not mean adopting less AI or adopting it la
 An AI system passes the Slow AI standard when the organization can answer yes to three questions, in writing, before deployment and at any time afterward:
 
 1. **Governed.** Is there a named human owner, a documented approval, a defined scope of use and a working mechanism to suspend or withdraw the system? A system that can only be turned off by its vendor is not governed by the organization.
-2. **Explainable.** Can the organization explain, to the person affected and to a regulator, what the system does, what data it uses and why a given output occurred, to the degree the use case demands? Explainability is proportionate: a document summarizer needs less than a credit decisioning model. What is never acceptable is deploying a system into a consequential decision and discovering afterward that no explanation is possible.
-3. **Auditable.** Are inputs, outputs and material configuration changes logged in a form a third party could examine? If an assurance provider arrived tomorrow, would there be records to assure?
+2. **Explained.** Can the organization explain, to the person affected and to a regulator, what the system does, what data it uses and why a given output occurred, to the degree the use case demands? Explainability is proportionate: a document summarizer needs less than a credit decisioning model. What is never acceptable is deploying a system into a consequential decision and discovering afterward that no explanation is possible.
+3. **Audited.** Are inputs, outputs and material configuration changes logged in a form a third party could examine? If an assurance provider arrived tomorrow, would there be records to assure?
 
 #### Why boards should care
 
@@ -105,7 +105,7 @@ Take any output the organization's AI produced last week that mattered: a declin
 
 Liability can be shared along the way. Vendors carry contractual liability, insurers carry transferred risk, employees carry conduct obligations. What cannot be shared is the residual: when contracts are exhausted and the vendor points at the deployer and the deployer points at the model, someone still answers to the regulator, the court and the harmed person. Final Liability names that person before the incident, because after the incident is too late to design an accountability structure and too early to survive not having one.
 
-This is also why vendor reliance never dilutes the doctrine. Nearly every organization's AI is built on external providers: foundation models, cloud infrastructure, embedded SaaS features. The risks may originate with vendors; the accountability remains with the organization. Boards should oversee vendor due diligence, contractual protections, incident notification and testing rights precisely because none of those transfer final liability. They only manage it.
+This is also why vendor reliance never dilutes the doctrine. Nearly every organization's AI is built on external providers: foundation models, cloud infrastructure, embedded SaaS features. A vendor can be the source of a risk; it cannot be the owner of the outcome. Boards should oversee vendor due diligence, contractual protections, incident notification and testing rights precisely because none of those transfer final liability. They only manage it.
 
 #### Board-level application
 
@@ -160,7 +160,7 @@ Informed Intent is the transaction-level expression of the other two doctrines. 
 No major jurisdiction has created a separate regime of "AI directors' duties," and none needed to. The duty of care and diligence, the duty of good faith and the duty of oversight already extend to any technology material to the organization's operations, risk profile or strategy. Regulators have been explicit about the application to AI:
 
 - **Australia** put it most directly. The securities regulator has stated that directors' duties of care and diligence extend to the adoption, deployment and use of AI, including awareness of AI use within the company, the extent of reliance on AI-generated information and the reasonably foreseeable risks. A 2026 Federal Court judgment on directors' use of AI in analyzing board papers cautioned, as commentary reports it, that directors should not become reliant on computer-generated output.
-- **Korea** enacted a comprehensive AI Framework Act, effective 22 January 2026, whose obligations fall on the business operator, which in governance terms means the board and executives who direct it.
+- **Korea** enacted a comprehensive AI Framework Act, in force from 22 January 2026 with the provisions its Addenda list from 21 July 2026, whose obligations fall on the business operator, which in governance terms means the board and executives who direct it.
 - **The EU** allocates AI Act obligations to providers and deployers as undertakings; sanctions scale to global group turnover, which places the exposure squarely at the level the board governs.
 - **Vietnam's** AI Law, effective 1 March 2026, assigns duties to developers, providers and deployers and anchors the whole framework in human responsibility for important decisions.
 - **The US** has no comprehensive federal statute, but Delaware oversight doctrine, sectoral regulators and state attorneys general reach the same result: boards that fail to implement and monitor reporting systems for a mission-critical risk are exposed, and AI is rapidly becoming mission-critical everywhere.
@@ -250,7 +250,7 @@ AI introduces new attack vectors and amplifies old ones. Generative AI industria
 
 ##### 2. Privacy and data governance
 
-Privacy obligations attach to data flowing into AI systems and to outputs containing personal information, including inferred and incorrect information about people. Characteristic exposures: personal data used beyond its original purpose, sensitive data leaking through model outputs and customers volunteering personal information to AI agents in ways the privacy program never contemplated. Several jurisdictions now impose specific disclosure duties when automated decision-making uses personal information; see the jurisdiction guides.
+Privacy law follows personal information in both directions: into the system as training or prompt data, and out of it as output, including what the system infers about a person and what it gets wrong. Characteristic exposures: personal data used beyond its original purpose, sensitive data leaking through model outputs and customers volunteering personal information to AI agents in ways the privacy program never contemplated. Several jurisdictions now impose specific disclosure duties when automated decision-making uses personal information; see the jurisdiction guides.
 
 ##### 3. Output quality and explainability
 
@@ -285,6 +285,8 @@ AI carries a material energy, water and hardware footprint across its lifecycle.
 Set appetite by risk area ([Strategy and risk appetite](#strategy-and-risk-appetite)), assign controls by risk area ([Controls and assurance](#controls-and-assurance)) and require management reporting in the same eight categories so the board sees trend, not anecdote. A taxonomy that changes every quarter is a dashboard; one that holds still is an instrument.
 
 ## Part 3: Operating Discipline
+
+The four elements of this Part take their subjects from the operating model in Part 2 of AICD and the UTS Human Technology Institute, *A Director's Guide to AI Governance*, Version 2 (June 2026), licensed CC BY-NC-SA 4.0. The headings, the doctrine reading and the board questions are the author's.
 
 ### Strategy and Risk Appetite
 
@@ -321,10 +323,10 @@ Management should give the board a clear, business-case-supported picture of wha
 
 #### Board questions for this element
 
-1. Do we have a clear, written understanding of the organization's strategy with AI, and does every material AI investment trace to it?
-2. Have we communicated to management what we see as the key AI opportunities and the risks to be managed?
-3. What is our risk appetite for AI, how does it differ across use cases, technologies and stakeholder groups, and where is it written down?
-4. Do we have agreed measures of AI progress and success, including return on investment?
+1. Can we say, for each material AI investment, in one sentence, which part of the strategy it serves?
+2. Has the board told management in writing which AI opportunities it wants pursued and which risks it wants contained?
+3. Where is our AI risk appetite written down, and where does it change by use case, technology or the people affected?
+4. Which measures, agreed in advance, will tell us whether AI is working, return on investment among them?
 5. What did the baseline show, and what did it change?
 
 ### Accountability Structure
@@ -368,10 +370,10 @@ Structures decay. Roles, decision processes and reporting arrangements should be
 
 #### Board questions for this element
 
-1. Can we name the executive accountable for AI governance, and does that person have the authority and resources the role requires?
-2. Do we understand how AI is being adopted across the organization and the opportunities and risks of that use?
-3. Is there an effective structure for decision-making on AI use, including high-risk uses, and should a management-led AI committee exist, or be simplified?
-4. Do we receive timely, comprehensive, plain-language reporting on AI use, and is it periodically renegotiated?
+1. Which executive answers by name for AI governance, and does that person hold the authority and budget the role needs?
+2. Where in the organization is AI in use today, and what does that use expose us to?
+3. Who decides on AI use, high-risk use in particular, and does a management committee sharpen that decision or slow it?
+4. Does AI reporting reach us on time and in plain language, and when did we last change what we ask it to show?
 
 ### Controls and Assurance
 
@@ -422,10 +424,10 @@ Cyber security recurs across every survey as the AI risk boards worry about most
 
 #### Board questions for this element
 
-1. What steps give us confidence we are meeting legal and regulatory obligations for AI and the associated data collection, storage and use?
-2. Does the risk management framework adequately address AI-related risks, and does it differentiate high-risk from low-risk applications?
-3. What controls govern agentic risk, and have the suspension mechanisms been tested?
-4. Do our privacy, data governance, cyber and procurement policies address AI, and when were they last reviewed for it?
+1. If a regulator asked tomorrow, what would we hand over to show that the AI we run, and the data it takes in and keeps, is lawful?
+2. Where does the risk framework treat a high-risk AI application differently from a low-risk one?
+3. Which controls bind our agents, and when were their suspension mechanisms last tested?
+4. Which of our privacy, data governance, cyber and procurement policies has anyone rewritten since we began using AI?
 
 ### Culture and Enablers
 
@@ -451,7 +453,7 @@ Two field-tested lessons from mature adopters are worth importing. First, govern
 Engaging stakeholders is how the organization learns about risks and harms before they mature into incidents, and the board should be comfortable management has engaged appropriately for the deployment at hand:
 
 - **Customers and clients.** Transparency about how AI is deployed, including use of personal information, consistent with applicable privacy law. Targeted consultation is appropriate where AI touches concerned or vulnerable groups, for example a human services organization deploying AI in service delivery; for mass-market customer bases, transparency substitutes where consultation is infeasible.
-- **Employees.** Widespread adoption should be accompanied by consultation, training and support. Research repeatedly finds worker engagement is the neglected element of AI programs even though employees decide whether value is realized. In many jurisdictions consultation is also a legal duty when AI materially changes work; see the jurisdiction guides on industrial relations triggers.
+- **Employees.** When AI reaches most of the workforce, the people who use it should be asked, taught and supported before their work is measured against it. Research repeatedly finds worker engagement is the neglected element of AI programs even though employees decide whether value is realized. In many jurisdictions consultation is also a legal duty when AI materially changes work; see the jurisdiction guides on industrial relations triggers.
 - **Suppliers.** Where AI systems alter the nature of the commercial relationship or use supplier data, transparency and in some cases consultation are appropriate.
 - **Broader stakeholders.** Community, government and regulators are key to reputation and social license, particularly for large deployments affecting many customers and employees. Proactive engagement is cheaper than remedial engagement.
 
@@ -463,10 +465,10 @@ The board's role in workforce impact goes beyond compliance: understanding wheth
 
 #### Board questions for this element
 
-1. Do we have a strategy for understanding the impact of AI implementation on internal and external stakeholders, and have we consulted where necessary?
-2. Do we have a comprehensive view of underlying data volume and quality, and how does it constrain AI effectiveness?
-3. Have cyber security and data governance processes, practices and policies been updated for AI implementation?
-4. Are current technology platforms and data flows fit for purpose for safe and responsible AI, including the transparency and explanation of decisions the architecture must enable?
+1. Whom do our AI deployments affect, inside and outside the organization, and whom have we asked?
+2. How much data do we hold, how good is it, and what does that allow our AI to do?
+3. Do our cyber and data governance practices reflect the AI we actually run?
+4. Can our platforms and data flows produce the explanation of a decision that a regulator or an affected person would ask for?
 
 ## Part 4: Value and Returns
 
@@ -476,27 +478,29 @@ The board's role in workforce impact goes beyond compliance: understanding wheth
 
 #### Why the board owns ROI oversight
 
-Board oversight of AI return on investment serves three functions:
+The board watches the return on AI for three reasons:
 
-1. **Investment discipline.** Boards should understand what value AI investments are expected to deliver, over what timeframe and how success will be measured, exactly as for any other significant capital or operating commitment. The technology's novelty is not an exemption from the business case.
-2. **Organizational focus.** Requiring clear use cases, defined success metrics and structured evaluation prevents fragmented adoption that consumes resources without delivering outcomes. The absence of this discipline has a recognizable signature: many tools, no measured improvement, rising spend.
-3. **Value-risk integration.** Value and risk in AI deployment are closely connected. Systems that create significant commercial, regulatory or reputational risk can erode rather than create value; benefits achieved outside appetite are liabilities on a delay. The ROI question and the risk question are the same question asked from two sides, which is one reason this handbook treats them under one governance framework.
+1. **Investment discipline.** An AI investment answers the same three questions as any other material commitment: what it will deliver, by when and how anyone will know. The technology's novelty is not an exemption from the business case.
+2. **Organizational focus.** Without a stated use case, a success measure and an evaluation, adoption scatters and spends without producing anything the organization can point to. The absence of this discipline has a recognizable signature: many tools, no measured improvement, rising spend.
+3. **Value-risk integration.** In AI, value and risk come out of the same deployment. A system that carries heavy commercial, regulatory or reputational risk can destroy more value than it makes; benefits achieved outside appetite are liabilities on a delay. The ROI question and the risk question are the same question asked from two sides, which is one reason this handbook treats them under one governance framework.
 
 #### The state of the evidence
 
-Directors should hold two findings simultaneously. Studies across 2025 and 2026 report large shares of organizations seeing no tangible profitability impact from generative AI investment and high pilot failure rates, with figures as stark as 80 percent seeing no bottom-line impact and 95 percent of pilots failing circulating widely. At the same time, majorities in other surveys report real business value, with the share rising sharply among organizations classed as AI leaders, and country-level research consistently finds substantial reported efficiency improvement. The reconciliation is in the pattern: early generative AI benefits appear as individual productivity, which does not automatically translate into bottom-line impact. Greater value is realized where AI transforms processes, systems or business models, and relatively few organizations operate at that level yet. Meanwhile pressure to demonstrate returns is intensifying; a majority of business leaders report increasing pressure to show returns on AI investment. The board's posture follows from the evidence: skeptical of aggregate claims in either direction, insistent on use-case-level measurement in its own organization.
+Directors should hold two findings simultaneously. Studies across 2025 and 2026 report large shares of organizations seeing no tangible profitability impact from generative AI investment and high pilot failure rates, with figures as stark as 80 percent seeing no bottom-line impact and 95 percent of pilots failing circulating widely. At the same time, majorities in other surveys report real business value, with the share rising sharply among organizations classed as AI leaders, and country-level research consistently finds substantial reported efficiency improvement. The two findings fit together once the source of benefit is clear: early generative AI saves individuals time, and time saved by individuals does not reach the profit line on its own. The larger returns come where AI changes a process, a system or a business model, and few organizations have reached that stage. Meanwhile pressure to demonstrate returns is intensifying; a majority of business leaders report increasing pressure to show returns on AI investment. The board's posture follows from the evidence: skeptical of aggregate claims in either direction, insistent on use-case-level measurement in its own organization.
 
 #### A structured ROI framework
 
-The following framework scales to organizations of any size, with evaluation effort proportionate to the opportunity, cost, risk and complexity of the deployment.
+The three reasons above, the three phases and the three assumptions below take their structure from the return-on-investment section of the AICD and UTS Human Technology Institute guide credited in [References](appendices/references.md); the wording and the doctrine reading are the author's.
+
+The framework below works at any size; how much evaluation a deployment gets should follow its opportunity, cost, risk and complexity.
 
 ##### 1. Assess ROI per use case, not per capability
 
-General capabilities do not have measurable ROI; specific use cases do. For each use case, identify the specific business improvement sought and the metrics that will demonstrate success, before investment.
+General capabilities do not have measurable ROI; specific use cases do. Before money is committed, each use case names the improvement it is meant to make and the measure that will show whether it did.
 
-##### 2. Match the ROI lens to the implementation phase
+##### 2. Judge each initiative by the phase it is in
 
-AI initiatives typically move through three phases, each with a distinct ROI profile: experimentation (can we do this?), integration (does it work?) and scaling (can this be rolled out?). Benefits, costs and risks rise and fall in importance across the phases; judging an experiment by scaling economics kills useful learning, and judging a scaled rollout by experiment enthusiasm hides failure.
+An AI initiative usually passes through three phases, and each is judged differently: experimentation asks whether the thing can be done, integration whether it works in the business and scaling whether it holds across the organization. Benefits, costs and risks rise and fall in importance across the phases; judging an experiment by scaling economics kills useful learning, and judging a scaled rollout by experiment enthusiasm hides failure.
 
 ##### 3. Take a broad view of benefits
 
@@ -504,8 +508,8 @@ Direct efficiency gains are the easiest to count and rarely the whole story. A c
 
 ##### 4. Test three assumptions at integration and scaling
 
-- **Adoption.** What proportion of the target user base actively uses the capability? Licenses purchased is not a benefit metric.
-- **Translation efficiency.** How well does the targeted business improvement translate into broader organizational value? Time saved that is not redeployed is a benefit that evaporated.
+- **Adoption.** Of the people the capability was bought for, how many use it? Licenses purchased is not a benefit metric.
+- **Translation efficiency.** Does the improvement in the target task show up anywhere in the organization's wider results? Time saved that is not redeployed is a benefit that evaporated.
 - **Accuracy and performance.** Does the use case perform reliably at the quality and consistency required, including the cost of the human review layer that assures it?
 
 ##### 5. Model all relevant costs
@@ -520,7 +524,7 @@ Value reporting belongs in the standing AI report alongside risk reporting: use 
 
 1. For our three largest AI investments, what specific improvement was each meant to deliver, and what do the agreed metrics currently show?
 2. Which phase is each material initiative in, and what would move it to the next phase or end it?
-3. What proportion of intended users actually use each deployed capability?
+3. How many of the people each capability was meant for actually use it?
 4. Are consumption costs, training and quality assurance inside the cost model?
 5. What have we retired in the last year, and why?
 

@@ -1,5 +1,23 @@
 # Changelog
 
+## v1.8.0 (2 November 2026)
+
+Minor release: attribution of the AICD and UTS Human Technology Institute guide, and the passages derived from it restated in the author's words. On Michael Paik's rulings of 2 November 2026, train B of the improvement rotation (review of 24 October 2026, reader report 03). Prepared with Claude, approved by Michael Paik.
+
+### Attribution and restatement
+- **Source.** AICD and UTS Human Technology Institute, *A Director's Guide to AI Governance*, Version 2 (June 2026), © 2026 AICD and HTI, licensed CC BY-NC-SA 4.0, read in full against this handbook on 2 November 2026 (KST). Red flags 1 to 16 had followed its sixteen governance red flags one for one, in its order and its four groups, most first sentences near-verbatim; the sixteen Part 3 board questions had followed its four "Questions for directors to ask" boxes; Part 4's return-on-investment framework and three earlier sentences (handbook lines 108, 253 and 454 of v1.7.2) tracked its wording; the handbook and its references called the whole "an original work".
+- **`06-best-practices/red-flags.md`.** Flags 1 to 16 restated from the doctrines, each keeping its breach and first step; a lead sentence credits the guide for their subjects, order and grouping. Flags 17 to 20, the author's own, unchanged.
+- **`handbook.md`.** Part 3 opens with a sentence crediting the guide's operating model for the four elements' subjects; the sixteen board questions restated (Strategy question 5, the author's own, unchanged). Part 4: the three reasons, the two findings' reconciliation, the framework's opening, the use-case, phase and adoption sentences and board question 3 restated, with a sentence crediting the guide for the framework's structure; the author's own lines unchanged. Lines 108, 253 and 454 of v1.7.2 restated.
+- **`README.md`, `appendices/references.md`.** "An original work" removed; the references entry for the guide gives its copyright, licence and what this handbook takes from it.
+- Method: the opening sentence of each restated flag and question, and every restated Part 4 sentence of five words or more, was screened against every sentence of the guide (difflib similarity on normalized text): the flags and questions all below 0.6 (highest 0.57 before "procurement" was restored on Michael Paik's approval), the Part 4 sentences 26 of 29 below 0.6 and three at 0.62 to 0.63, carried by lists of common nouns. A screen, not a finding of copying either way. Sentences of v1.7.2 scoring 0.6 to 0.79 elsewhere in the handbook are read at this repository's own slot.
+
+### Doctrine wording and Korea
+- `handbook.md` Slow AI standard: the three tests read Governed, Explained and Audited, the DOCTRINE.md section 8 list form; `appendices/companion-works.md` line 38 the same.
+- `handbook.md` directors' duties, Korea: the Framework Act is in force from 22 January 2026 with the provisions its Addenda list from 21 July 2026, as `CURRENCY.md` row KR-1 and `05-jurisdictions/korea.md` state.
+
+### Lockstep
+- Version line, How to Cite and `CITATION.cff` to 1.8.0; `handbook.md` masthead to 1.8.0, the version in which it last changed; `CURRENCY.md` unchanged at 1.7.2.
+
 ## v1.7.2 (20 October 2026)
 
 Independent review of 20 October 2026; changes made with Claude, approved by Michael Paik. Corrections of law against primary text, provenance and consistency fixes, doctrine compressions conformed to DOCTRINE.md section 8 and house-style repairs. Findings applied: BRD-01, BRD-02, BRD-03, BRD-04, BRD-05, BRD-06, BRD-07, BRD-08, BRD-09, BRD-10, BRD-11, BRD-12, BRD-13, BRD-14, BRD-15, BRD-16, BRD-17, BRD-18, BRD-19, BRD-20, BRD-21, BRD-23, BRD-24, BRD-25, X-01. BRD-22 (em dashes in a shipped entry) is accepted as shipped.

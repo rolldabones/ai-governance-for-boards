@@ -35,7 +35,7 @@ The three doctrines are stated once and expressed at three altitudes. The formul
 
 ### Slow AI
 
-- **Board altitude (this handbook).** Three tests a system must pass before and after deployment: governed, explainable, auditable. Adoption pace is an output of governance capacity, not an input the board sets by ambition.
+- **Board altitude (this handbook).** Three tests a system must pass before and after deployment: governed, explained, audited. Adoption pace is an output of governance capacity, not an input the board sets by ambition.
 - **Enterprise altitude (GRC Workbook, Module 9).** Calibrated release: capability is deployed at the rate the organization, the people and the affected parties can absorb without losing the capacity to govern, with release tiers, gating criteria and fallback positions an independent reviewer can inspect.
 - **Task altitude (Slow AI Kitchen).** The twelve-step method itself: manual first pass before AI touches the work, bounded AI use, verification before release. The Kitchen's three risk tiers are the task-level expression of the enterprise release tiers.
 

@@ -6,7 +6,7 @@
 CEO, GRC Solutions Korea
 [www.grcskorea.com](http://www.grcskorea.com)
 
-Version 1.7.2 | 20 October 2026 | License: CC BY-NC-SA 4.0
+Version 1.8.0 | 2 November 2026 | License: CC BY-NC-SA 4.0
 
 ---
 
@@ -86,7 +86,7 @@ Related essays: [substack.com/@redcaps](https://substack.com/@redcaps).
 
 ## How to cite
 
-> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.7.2. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
+> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.8.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
@@ -104,7 +104,7 @@ Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Author and provenance
 
-Built and maintained by Son-U Michael Paik. This handbook is an original work synthesizing the author's practice across US, Korean, EU and Southeast Asian AI governance, risk management and compliance frameworks, and the public sources listed in [References](appendices/references.md).
+Built and maintained by Son-U Michael Paik. This handbook synthesizes the author's practice across US, Korean, EU and Southeast Asian AI governance, risk management and compliance frameworks and the public sources listed in [References](appendices/references.md); its operating model and red flags follow the subjects of the AICD and UTS Human Technology Institute guide credited there.
 
 Son-U Michael Paik is an attorney, AI auditor and governance architect with more than 25 years of experience designing risk and compliance systems for cross-border institutions in regulated, high-stakes sectors across Asia, Europe and the United States. He is the former General Counsel of BABL AI, a global AI audit provider, and Founder and Chief Executive Officer of GRC Solutions Korea, where he advises finance, industrial and public-sector Clients on AI governance, audit readiness and regulatory compliance. He holds a Juris Doctor from Columbia Law School, a Master of Business Administration from the Yale School of Management and a Bachelor of Arts in Economics from Syracuse University, is admitted to the New York Bar and holds AI audit certifications from BABL AI and ForHumanity, including certifications under the EU AI Act, GDPR and the Digital Services Act.
 
