@@ -1,6 +1,6 @@
 # References and Further Reading
 
-The sources below informed this handbook, are cited in the jurisdiction guides or are recommended as companion reading. Statutes and regulations are listed by their operative dates as at early July 2026 unless an entry carries a later date, to which it was verified. **URLs added 15 October 2026 (KST).** An entry marked **[opened]** was read at that address on 15 October 2026 (KST) in the whole-account review or by its delegated reviewers; an entry marked **[address]** gives the publisher's canonical address, not opened in that pass. The dated status of every instrument, with its next check, is in [CURRENCY.md](../CURRENCY.md); verify current status before reliance.
+The sources below informed this handbook, are cited in the jurisdiction guides or are recommended as companion reading. Statutes and regulations are listed by their operative dates as at early July 2026 unless an entry carries a later date, to which it was verified. **URLs added 15 October 2026 (KST).** An entry marked **[opened]** was read at that address on 15 October 2026 (KST); an entry marked **[address]** gives the publisher's canonical address, not opened in that pass. The dated status of every instrument, with its next check, is in [CURRENCY.md](../CURRENCY.md); verify current status before reliance.
 
 ## International frameworks
 

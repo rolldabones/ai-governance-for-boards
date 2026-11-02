@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.8.1 (3 November 2026)
+
+- `appendices/references.md`, the opening note: an entry marked [opened] "was read at that address on 15 October 2026 (KST)", without "in the whole-account review or by its delegated reviewers"; no entry changed.
+- README, `handbook.md` and `CITATION.cff` to v1.8.1; CURRENCY.md unchanged. Train C of the improvement rotation (review of 24 October 2026). Prepared with Claude, approved by Michael Paik.
+
 ## v1.8.0 (2 November 2026)
 
 Minor release: attribution of the AICD and UTS Human Technology Institute guide, and the passages derived from it restated in the author's words. On Michael Paik's rulings of 2 November 2026, train B of the improvement rotation (review of 24 October 2026, reader report 03). Prepared with Claude, approved by Michael Paik.
