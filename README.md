@@ -6,7 +6,7 @@
 CEO, GRC Solutions Korea
 [www.grcskorea.com](http://www.grcskorea.com)
 
-Version 1.8.1 | 3 November 2026 | License: CC BY-NC-SA 4.0
+Version 1.8.2 | 9 November 2026 | License: CC BY-NC-SA 4.0
 
 ---
 
@@ -86,7 +86,7 @@ Related essays: [substack.com/@redcaps](https://substack.com/@redcaps).
 
 ## How to cite
 
-> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.8.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
+> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.8.2. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
@@ -97,6 +97,8 @@ This repository is general guidance, not legal advice. AI regulation is changing
 ## License
 
 This repository is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). You may share and adapt this material for non-commercial purposes provided you give appropriate credit, indicate if changes were made and distribute your contributions under the same license. Commercial use requires the author's prior written permission.
+
+Commercial use, including a Client's use in its own operations, is set out in [LICENSING.md](https://github.com/rolldabones/rolldabones/blob/main/LICENSING.md).
 
 Suggested attribution: "AI Governance for Boards by Son-U Michael Paik, GRC Solutions Korea, licensed under CC BY-NC-SA 4.0."
 

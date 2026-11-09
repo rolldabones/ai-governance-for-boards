@@ -4,7 +4,7 @@
 CEO, GRC Solutions Korea
 [www.grcskorea.com](http://www.grcskorea.com)
 
-Version 1.8.1 | 3 November 2026 | License: CC BY-NC-SA 4.0
+Version 1.8.2 | 9 November 2026 | License: CC BY-NC-SA 4.0
 
 *This masthead gives the repository version in which this file last changed; the current repository version is in the [README](README.md).*
 
