@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.8.3 (16 November 2026)
+
+Patch release: a correction of substance in the Texas entry, account-maintenance `OPEN-ITEMS.md` item 49(a), made on Michael Paik's instruction of 16 November 2026. Found by the book's re-verification of the same day (final-liability-rests-with-the-human-book-wip v1.12.5), which read the enrolled bill, the codified chapter and the bill history on capitol.texas.gov. Prepared with Claude, approved by Michael Paik.
+
+- **Struck.** `05-jurisdictions/us.md`, Texas: ~~Compliance with the NIST AI Risk Management Framework supports an affirmative defense.~~ Board priority 1: ~~earns an affirmative defense in Texas~~. `appendices/references.md`, the NIST entry: ~~compliance supports an affirmative defense under Texas TRAIGA~~. Tex. Bus. & Com. Code § 552.105(e) protects a defendant that discovers the violation through feedback, testing, state-agency guidelines or, if it substantially complies with the NIST AI RMF Generative Artificial Intelligence Profile or another recognized framework, an internal review process; each passage now says so, and the Texas entry adds the 60-day cure period after notice (§ 552.104). A dated amendment note and the status line record the change. The struck claims are registered in account-maintenance `tools/supersession-register.json`.
+- **`CURRENCY.md` row US-6:** Texas HB 149 and NYC Local Law 144 re-dated to 16 November 2026 in the respects read, with the two addresses opened; the row's other instruments keep their early July date, not re-verified. Register to v1.7.3. No other row moves.
+- README, `handbook.md` and `CITATION.cff` to v1.8.3.
+
 ## v1.8.2 (9 November 2026)
 
 Patch release. Train D of the improvement rotation (review of 24 October 2026). Prepared with Claude, approved by Michael Paik.
