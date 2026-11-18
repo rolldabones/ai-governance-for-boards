@@ -34,51 +34,57 @@ Element questions for strategy, accountability, controls, culture and value live
 
    Detects: red flag 5, *Ad hoc adoption*.
 
+7. When was our AI incident response last exercised, who owns it and on what evidence does management rate it? (Doctrine: Final Liability; the power to intervene.)
+
+   Why now: in the survey reported in the AI Index Report 2026, the share of organizations rating their own AI incident response excellent fell from 28% to 18% in a year ([references](../appendices/references.md#practice-literature)).
+
+   Detects: red flag 8, *Bad news travels slowly*.
+
 ## Culture and enablers
 
-7. What sanctioned AI tools do staff have, what does monitoring show about unsanctioned use and what does training cover?
+8. What sanctioned AI tools do staff have, what does monitoring show about unsanctioned use and what does training cover?
 
    Detects: red flag 15, *Untrained workforce*.
 
 ## Value and returns
 
-8. What AI initiative did we retire in the last year on evidence, and if the answer is none, why should we believe we are measuring?
+9. What AI initiative did we retire in the last year on evidence, and if the answer is none, why should we believe we are measuring?
 
    Detects: red flag 20, *Perfect record*.
 
 ## The board's own use of AI
 
-9. Is board and committee use of AI recorded in the AI register and governed by an agreed policy?
+10. Is board and committee use of AI recorded in the AI register and governed by an agreed policy?
 
    Detects: red flag 19, *The register is a souvenir*.
 
-10. Are we individually satisfied that we are not substituting machine summaries for our own review and interrogation of board papers?
+11. Are we individually satisfied that we are not substituting machine summaries for our own review and interrogation of board papers?
 
    Detects: no paired flag.
 
-11. Does our use of AI in governance blur lines of accountability or undermine confidence in management, and would we know?
+12. Does our use of AI in governance blur lines of accountability or undermine confidence in management, and would we know?
 
    Detects: red flag 6, *Unattributable governance*.
 
 ## Jurisdiction triggers
 
-12. Which of our systems fall within the EU AI Act's high-risk categories, and what is the build plan against the December 2027 and August 2028 deadlines, with transparency duties live from August 2026?
+13. Which of our systems fall within the EU AI Act's high-risk categories, and what is the build plan against the December 2027 and August 2028 deadlines, with transparency duties live from August 2026?
 
    Detects: no paired flag.
 
-13. Which systems constitute high-impact or generative AI under Korea's Framework Act, is labeling implemented and do we meet a domestic agent threshold?
+14. Which systems constitute high-impact or generative AI under Korea's Framework Act, is labeling implemented and do we meet a domestic agent threshold?
 
    Detects: no paired flag.
 
-14. Have our Vietnam-facing systems been risk-classified before operation, has every one been tested against the six domains and 46 listed systems of Decision No. 33/2026/QD-TTg (in force 15 August 2026), were transition notices filed and are we tracking the penalty decree, which remains outstanding?
+15. Have our Vietnam-facing systems been risk-classified before operation, has every one been tested against the six domains and 46 listed systems of Decision No. 33/2026/QD-TTg (in force 15 August 2026), were transition notices filed and are we tracking the penalty decree, which remains outstanding?
 
    Detects: no paired flag.
 
-15. Which US states' AI statutes reach our operations, and are we building to the strictest applicable standard rather than waiting for federal preemption?
+16. Which US states' AI statutes reach our operations, and are we building to the strictest applicable standard rather than waiting for federal preemption?
 
    Detects: no paired flag.
 
-16. In Australia, are we ready for the December 2026 automated decision-making privacy disclosures, and is our program aligned to the six essential practices?
+17. In Australia, are we ready for the December 2026 automated decision-making privacy disclosures, and is our program aligned to the six essential practices?
 
    Detects: no paired flag.
 

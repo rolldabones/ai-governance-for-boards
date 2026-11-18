@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.8.4 (18 November 2026)
+
+Patch release: one board question added, from the Stanford AI Index Report 2026, Chapter 3 integration of 18 November 2026 (account-maintenance `DECISIONS.md` section A), under Michael Paik's reopening of the no-further-additions rule for this work behind a Phase 0 gate. Prepared with Claude, approved by Michael Paik.
+
+- **`06-best-practices/board-questions.md`, Risk and controls:** question 7, on AI incident response: when it was last exercised, who owns it and on what evidence management rates it, paired with red flag 8. Neither the bank nor the handbook's element questions asked about incident response. Later questions renumbered 8 to 17; no file in the account cites a question of the bank by number.
+- **`appendices/references.md`, Practice literature:** the AI Index Report 2026, Chapter 3, Figure 3.3.4, the source of the question's one figure.
+- Found and not changed: six Detects labels in the bank do not match the titles in `red-flags.md` (account-maintenance `OPEN-ITEMS.md` item 50).
+- README, `handbook.md` and `CITATION.cff` to v1.8.4.
+
 ## v1.8.3 (16 November 2026)
 
 Patch release: a correction of substance in the Texas entry, account-maintenance `OPEN-ITEMS.md` item 49(a), made on Michael Paik's instruction of 16 November 2026. Found by the book's re-verification of the same day (final-liability-rests-with-the-human-book-wip v1.12.5), which read the enrolled bill, the codified chapter and the bill history on capitol.texas.gov. Prepared with Claude, approved by Michael Paik.
