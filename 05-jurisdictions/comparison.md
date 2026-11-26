@@ -1,6 +1,6 @@
 # Cross-Jurisdiction Comparison
 
-**One table, five regimes. Current as at early July 2026 except where a cell carries a later date, to which it was verified; the Colorado, Vietnam and California cells were corrected on 15 October 2026 (KST) and the dated register is [CURRENCY.md](../CURRENCY.md). This is the orientation layer; the individual [jurisdiction guides](.) control on any point of detail. Verify current status before reliance.**
+**One table, five regimes. The Vietnam and Australia columns are frozen from 26 November 2026 with their guides and are not updated after that date. Current as at early July 2026 except where a cell carries a later date, to which it was verified; the Colorado, Vietnam and California cells were corrected on 15 October 2026 (KST) and the dated register is [CURRENCY.md](../CURRENCY.md). This is the orientation layer; the individual [jurisdiction guides](.) control on any point of detail. Verify current status before reliance.**
 
 ## At a glance
 

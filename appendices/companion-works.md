@@ -13,7 +13,7 @@
 
 ## A companion at the center
 
-[The Definition of Done Is the Work of the Human](https://github.com/rolldabones/definition-of-done) (CC BY-NC-SA 4.0) is a standalone companion to the four repositories rather than a fifth layer. It deepens the moment they converge on: a named Human defining and confirming that work is done. Within the stack it is the depth work inside the Kitchen's Gates 1, 6 and 7, the task-level instrument of the knowledge condition in Workbook Module 10 and teaching material for the Academy's Practitioner Academy and Executive Workshop. The board directs, the enterprise builds, the professional practices, the programs deliver and at the center of all four a Human decides that work is done.
+[The Definition of Done Is the Work of the Human](https://github.com/rolldabones/definition-of-done) (CC BY-NC-SA 4.0; an archived edition from 26 November 2026) is a standalone companion to the four repositories rather than a fifth layer. It deepens the moment they converge on: a named Human defining and confirming that work is done. Within the stack it is the depth work inside the Kitchen's Gates 1, 6 and 7, the task-level instrument of the knowledge condition in Workbook Module 10 and teaching material for the Academy's Practitioner Academy and Executive Workshop. The board directs, the enterprise builds, the professional practices, the programs deliver and at the center of all four a Human decides that work is done.
 
 ## How the stack fits together
 

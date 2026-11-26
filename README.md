@@ -1,12 +1,12 @@
 # AI Governance for Boards
 
-**A doctrine-first handbook for directors overseeing artificial intelligence, with jurisdiction guides for the EU, the US, Korea, Vietnam and Australia.**
+**A doctrine-first handbook for directors overseeing artificial intelligence, with maintained jurisdiction guides for the EU, the US and Korea, and dated guides for Vietnam and Australia.**
 
 **Son-U Michael Paik**
 CEO, GRC Solutions Korea
 [www.grcskorea.com](http://www.grcskorea.com)
 
-Version 1.8.5 | 26 November 2026 | License: CC BY-NC-SA 4.0
+Version 1.8.6 | 26 November 2026 | License: CC BY-NC-SA 4.0
 
 ---
 
@@ -46,8 +46,8 @@ Read Part 1 first; Parts 1 to 4 are one file, [handbook.md](handbook.md). The do
 - [European Union](05-jurisdictions/eu.md)
 - [United States](05-jurisdictions/us.md)
 - [Republic of Korea](05-jurisdictions/korea.md)
-- [Vietnam](05-jurisdictions/vietnam.md)
-- [Australia](05-jurisdictions/australia.md)
+- [Vietnam](05-jurisdictions/vietnam.md), a dated guide frozen on 26 November 2026
+- [Australia](05-jurisdictions/australia.md), a dated guide frozen on 26 November 2026
 
 ### Part 6: Best Practices (globally applicable)
 - [Global best practices](06-best-practices/global-best-practices.md)
@@ -86,7 +86,7 @@ Related essays: [substack.com/@redcaps](https://substack.com/@redcaps).
 
 ## How to cite
 
-> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.8.5. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
+> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.8.6. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

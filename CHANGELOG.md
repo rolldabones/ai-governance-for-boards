@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.8.6 (26 November 2026)
+
+Patch release: the Australia and Vietnam guides are frozen as dated guides. On Michael Paik's rulings of 26 November 2026, recorded in DISPOSITION.md in the profile repository: thirteen repositories of the account were archived that day as dated editions. Prepared with Claude, approved by Michael Paik.
+
+- **`05-jurisdictions/australia.md` and `05-jurisdictions/vietnam.md`:** each status line now opens "a dated guide, frozen on 26 November 2026 and not updated after that date". The guides for the European Union, the United States and Korea stay maintained. No statement of law in either frozen guide is changed by this release, and none is re-verified: the Australia guide still describes as enacted and not yet in effect a disclosure duty that begins on 10 December 2026.
+- **`05-jurisdictions/comparison.md`:** the opening says the Vietnam and Australia columns are frozen with their guides.
+- **`CURRENCY.md` to v1.7.5:** the nine rows VN-1 to VN-5 and AU-1 to AU-4 read "Frozen" in the Next check column, and rule 5 says what that means. The fourteen other rows keep their dates.
+- **README:** the opening and the guide list say which guides are maintained and which are dated. `appendices/companion-works.md`: The Definition of Done is marked an archived edition.
+- README, `handbook.md` and `CITATION.cff` to v1.8.6. No file is added, removed, renamed or moved.
+
 ## v1.8.5 (26 November 2026)
 
 Patch release. Three doctrine forms and three Colorado status tags corrected. Account review of 10 November 2026, High findings, accepted by Michael Paik that day; worked on his ruling of 26 November 2026 that every open High finding is fixed before the account's disposition of that weekend. Prepared with Claude, approved by Michael Paik.
