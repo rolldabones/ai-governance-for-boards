@@ -52,7 +52,7 @@ An instrument with all five elements signed by a human lacking the five conditio
 
 ### Final Liability
 
-The formulation is uniform across all four repositories: a named human carries the consequence of every consequential AI outcome, in advance, with no gap in the chain. This handbook implements it as the ownership chain (system owner, decision owner, board accountability). The Workbook implements it as the named human plus evidence pack plus corrective capacity (Module 11). The Kitchen implements it as Gate 5, Name the Chef de Partie. The Academy renders it in every Client document. It is the closing line of each repository because it is the premise of all of them.
+The four repositories take the formulation from [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md) section 8. Final Liability rests with the Human: every material outcome attaches to a named human owner with decision rights, oversight and the power to intervene. This handbook implements it as the ownership chain (system owner, decision owner, board accountability). The Workbook implements it as the named human plus evidence pack plus corrective capacity (Module 11). The Kitchen implements it as Gate 5, Name the Chef de Partie. The Academy renders it in every Client document. It is the closing line of each repository because it is the premise of all of them.
 
 ## Concordance
 

@@ -6,7 +6,7 @@
 CEO, GRC Solutions Korea
 [www.grcskorea.com](http://www.grcskorea.com)
 
-Version 1.8.4 | 18 November 2026 | License: CC BY-NC-SA 4.0
+Version 1.8.5 | 26 November 2026 | License: CC BY-NC-SA 4.0
 
 ---
 
@@ -86,7 +86,7 @@ Related essays: [substack.com/@redcaps](https://substack.com/@redcaps).
 
 ## How to cite
 
-> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.8.4. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
+> Paik, Son-U Michael. *AI Governance for Boards: A Doctrine-First Handbook for Directors*, v1.8.5. GRC Solutions Korea, 2026. https://github.com/rolldabones/ai-governance-for-boards
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

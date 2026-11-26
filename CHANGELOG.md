@@ -1,5 +1,16 @@
 # Changelog
 
+## v1.8.5 (26 November 2026)
+
+Patch release. Three doctrine forms and three Colorado status tags corrected. Account review of 10 November 2026, High findings, accepted by Michael Paik that day; worked on his ruling of 26 November 2026 that every open High finding is fixed before the account's disposition of that weekend. Prepared with Claude, approved by Michael Paik.
+
+- **`handbook.md`, Informed Intent, the doctrine statement** (CSV row 793, ruling #49) dropped the authorizer limb. It now closes "given by a human who meets the five authorizer conditions", as DOCTRINE.md section 2 states the doctrine.
+- **`appendices/glossary.md`, Informed Intent** (CSV row 794, ruling #48) gave only the board-altitude five elements. It now leads with the section 8 sentence form verbatim and keeps the five elements as the altitude restatement that DOCTRINE.md section 2 records.
+- **`appendices/companion-works.md`, Final Liability** (CSV row 795, ruling #47) called a sentence of its own "uniform across all four repositories". It now carries the section 8 sentence form verbatim and says where the form comes from.
+- **`05-jurisdictions/us.md`, Colorado** (CSV rows 796 and 797, rulings #45 and #46): the tags on C.R.S. 6-1-1701(6) and 6-1-1707 read "Binding law" and now read "Enacted, not in effect until 1 January 2027", with the stay. The tag on HB 26-1263 now carries the 1 January 2027 date for the operator duties, in the form of `CURRENCY.md` row US-4. The Colorado opening adds the exception in section 5(2) of the session law. A dated amendment note records what was read on 26 November 2026: 2026 Colo. Sess. Laws ch. 131, section 5, and ch. 208, section 3, in a browser at leg.colorado.gov, and the docket of *X.AI LLC v. Weiser* as CourtListener publishes it. No statement of what the statutes require changed.
+- **`CURRENCY.md` to v1.7.4:** rows US-2, US-3 and US-4 record those reads; no next-check date moves.
+- README, `handbook.md` and `CITATION.cff` to v1.8.5.
+
 ## v1.8.4 (18 November 2026)
 
 Patch release: one board question added, from the Stanford AI Index Report 2026, Chapter 3 integration of 18 November 2026 (account-maintenance `DECISIONS.md` section A), under Michael Paik's reopening of the no-further-additions rule for this work behind a Phase 0 gate. Prepared with Claude, approved by Michael Paik.

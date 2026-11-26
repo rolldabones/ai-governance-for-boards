@@ -4,7 +4,7 @@
 CEO, GRC Solutions Korea
 [www.grcskorea.com](http://www.grcskorea.com)
 
-Version 1.8.4 | 18 November 2026 | License: CC BY-NC-SA 4.0
+Version 1.8.5 | 26 November 2026 | License: CC BY-NC-SA 4.0
 
 *This masthead gives the repository version in which this file last changed; the current repository version is in the [README](README.md).*
 
@@ -116,7 +116,7 @@ This is also why vendor reliance never dilutes the doctrine. Nearly every organi
 
 ### Informed Intent
 
-**Doctrine statement: no AI system, and above all no AI agent, acts on the organization's behalf without prior authorization that specifies what it may do, on whose authority, within what boundaries and with what exit.**
+**Doctrine statement: no AI system, and above all no AI agent, acts on the organization's behalf without prior authorization that specifies what it may do, on whose authority, within what boundaries and with what exit, given by a human who meets the five authorizer conditions.**
 
 *Canon: [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md#2-informed-intent), section 2, which records this section's five elements as an altitude restatement in force: scope of action and human checkpoints are drawn out of boundaries. This section adds no rule.*
 
